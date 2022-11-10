@@ -1,0 +1,153 @@
+2022-11-08 04:42:41,352 INFO 13870 [Job#16678537613501440099315704581] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2022-11-08 04:42:41,362 INFO 13870 [Job#16678537613501440099315704581] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 10ms. 
+2022-11-08 04:42:41,352 INFO 12874 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 85638650ms at 2022-11-09 04:30:00.002
+2022-11-08 10:59:13,407 INFO 18127 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 63046594ms at 2022-11-09 04:30:00.001
+2022-11-08 10:59:13,408 INFO 18127 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46846592ms at 2022-11-09 00:00:00.000
+2022-11-08 10:59:13,408 INFO 18127 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46847592ms at 2022-11-09 00:00:01.000
+2022-11-08 10:59:13,350 INFO 18128 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 10:59:13,350 INFO 18128 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 10:59:13,350 INFO 18128 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:02:08,490 INFO 18265 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:02:08,490 INFO 18265 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:02:08,490 INFO 18265 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:02:13,543 INFO 18285 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62866459ms at 2022-11-09 04:30:00.002
+2022-11-08 11:02:13,543 INFO 18285 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46666457ms at 2022-11-09 00:00:00.000
+2022-11-08 11:02:13,543 INFO 18285 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46667457ms at 2022-11-09 00:00:01.000
+2022-11-08 11:02:13,505 INFO 18286 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:02:13,505 INFO 18286 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:02:13,505 INFO 18286 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:03:13,469 INFO 18339 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62806533ms at 2022-11-09 04:30:00.002
+2022-11-08 11:03:13,469 INFO 18339 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46606531ms at 2022-11-09 00:00:00.000
+2022-11-08 11:03:13,469 INFO 18339 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46607531ms at 2022-11-09 00:00:01.000
+2022-11-08 11:03:13,411 INFO 18345 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:03:13,411 INFO 18345 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:03:13,411 INFO 18345 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:10:30,472 INFO 18810 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62369529ms at 2022-11-09 04:30:00.001
+2022-11-08 11:10:30,473 INFO 18810 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46169527ms at 2022-11-09 00:00:00.000
+2022-11-08 11:10:30,473 INFO 18810 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46170527ms at 2022-11-09 00:00:01.000
+2022-11-08 11:10:30,418 INFO 18811 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:10:30,418 INFO 18811 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:10:30,418 INFO 18811 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:11:50,420 INFO 18829 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:11:50,420 INFO 18829 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:11:50,420 INFO 18829 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:18:23,749 INFO 18880 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:18:23,749 INFO 18880 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:18:23,749 INFO 18880 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:18:33,556 INFO 18888 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:18:33,556 INFO 18888 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:18:33,556 INFO 18888 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:22:12,596 INFO 18919 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:22:12,596 INFO 18919 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:22:12,596 INFO 18919 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:22:33,426 INFO 18935 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:22:33,426 INFO 18935 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:22:33,426 INFO 18935 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:23:05,384 INFO 18947 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:23:05,384 INFO 18947 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:23:05,384 INFO 18947 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:31:27,364 INFO 19085 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:31:27,364 INFO 19085 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:31:27,364 INFO 19085 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:31:59,560 INFO 19097 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:31:59,560 INFO 19097 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:31:59,560 INFO 19097 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:32:01,851 INFO 19109 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:32:01,851 INFO 19109 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:32:01,851 INFO 19109 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:32:38,209 INFO 19116 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:32:38,209 INFO 19116 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:32:38,209 INFO 19116 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:33:47,752 INFO 19140 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:33:47,752 INFO 19140 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:33:47,752 INFO 19140 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:44:29,647 INFO 19220 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:44:29,647 INFO 19220 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:44:29,647 INFO 19220 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 11:44:41,955 INFO 19226 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 11:44:41,955 INFO 19226 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 11:44:41,955 INFO 19226 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:22:36,440 INFO 19659 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54443561ms at 2022-11-09 04:30:00.001
+2022-11-08 13:22:36,440 INFO 19659 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38243560ms at 2022-11-09 00:00:00.000
+2022-11-08 13:22:36,441 INFO 19659 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38244560ms at 2022-11-09 00:00:01.001
+2022-11-08 13:22:36,376 INFO 19662 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:22:36,376 INFO 19662 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:22:36,376 INFO 19662 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:25:33,371 INFO 19719 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54266631ms at 2022-11-09 04:30:00.002
+2022-11-08 13:25:33,371 INFO 19719 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 38066629ms at 2022-11-09 00:00:00.000
+2022-11-08 13:25:33,371 INFO 19719 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 38067629ms at 2022-11-09 00:00:01.000
+2022-11-08 13:25:33,316 INFO 19722 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:25:33,316 INFO 19722 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:25:33,316 INFO 19722 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:25:54,470 INFO 19730 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:25:54,471 INFO 19730 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:25:54,471 INFO 19730 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:26:33,276 INFO 19739 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:26:33,276 INFO 19739 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:26:33,276 INFO 19739 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:30:03,962 INFO 19782 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:30:03,962 INFO 19782 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:30:03,962 INFO 19782 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:38:56,271 INFO 20016 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:38:56,271 INFO 20016 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:38:56,271 INFO 20016 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:40:40,398 INFO 20104 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:40:40,398 INFO 20104 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:40:40,398 INFO 20104 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:41:46,701 INFO 20132 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:41:46,701 INFO 20132 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:41:46,701 INFO 20132 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:42:53,256 INFO 20147 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:42:53,256 INFO 20147 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:42:53,256 INFO 20147 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:43:48,790 INFO 20161 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:43:48,790 INFO 20161 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:43:48,790 INFO 20161 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:45:21,385 INFO 20193 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:45:21,385 INFO 20193 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:45:21,385 INFO 20193 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:46:52,528 INFO 20223 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:46:52,528 INFO 20223 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:46:52,528 INFO 20223 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:47:02,186 INFO 20236 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:47:02,186 INFO 20236 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:47:02,186 INFO 20236 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:47:12,995 INFO 20244 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:47:12,995 INFO 20244 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:47:12,995 INFO 20244 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:47:28,449 INFO 20253 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:47:28,449 INFO 20253 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:47:28,449 INFO 20253 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:47:41,025 INFO 20259 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:47:41,025 INFO 20259 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:47:41,025 INFO 20259 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:48:57,485 INFO 20303 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:48:57,485 INFO 20303 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:48:57,485 INFO 20303 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:49:19,140 INFO 20311 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:49:19,140 INFO 20311 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:49:19,140 INFO 20311 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:52:07,005 INFO 20339 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:52:07,006 INFO 20339 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:52:07,006 INFO 20339 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:52:10,597 INFO 20346 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:52:10,598 INFO 20346 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:52:10,598 INFO 20346 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 13:52:27,317 INFO 20353 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 13:52:27,317 INFO 20353 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 13:52:27,317 INFO 20353 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 16:19:04,150 INFO 24882 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 16:19:04,150 INFO 24882 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 16:19:04,150 INFO 24882 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 16:19:17,140 INFO 24894 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 16:19:17,140 INFO 24894 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 16:19:17,140 INFO 24894 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-08 16:20:26,460 INFO 24902 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2022-11-08 16:20:26,460 INFO 24902 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2022-11-08 16:20:26,460 INFO 24902 [egg-schedule]: register schedule /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2022-11-09 00:05:57,107 INFO 24902 [Job#16679235570572138054317809161] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2022-11-09 00:05:57,119 INFO 24902 [Job#16679235570812138054545229161] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2022-11-09 00:05:57,267 INFO 24902 [Job#16679235570572138054317809161] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 151ms. 
+2022-11-09 00:05:57,287 INFO 24902 [Job#16679235570812138054545229161] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 168ms. 
+2022-11-09 00:05:57,078 INFO 19719 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 86042938ms at 2022-11-10 00:00:00.014
+2022-11-09 00:05:57,084 INFO 19719 [Timer] /Users/jan/Desktop/pocketbook-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 86043919ms at 2022-11-10 00:00:01.003

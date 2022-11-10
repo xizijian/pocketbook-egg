@@ -1,0 +1,538 @@
+2022-11-08 00:15:26,050 INFO 12874 [egg-logrotator] agent logger reload: got log-reload message
+2022-11-08 00:30:56,745 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 930701ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 00:47:16,338 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 979588ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 01:23:16,748 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1078800ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 01:38:31,328 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 914578ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 01:53:32,934 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 901603ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 02:08:51,626 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 918691ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 02:26:35,246 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1063619ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 02:44:08,492 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1053240ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 03:02:03,095 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1074596ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 03:35:17,368 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 959823ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 03:52:52,743 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1055371ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 04:10:08,692 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1035934ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 04:25:55,661 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 946964ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 04:42:41,352 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1005684ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 05:00:24,039 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1062686ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 05:17:54,662 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1050621ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 05:34:58,171 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1023502ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 06:07:38,018 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 931070ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 06:23:08,727 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 910702ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 06:39:21,325 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 972588ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 06:55:20,994 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 959658ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 07:11:39,423 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 978424ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 07:28:25,057 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1005627ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 07:43:57,720 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 932661ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 08:18:26,478 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 182752ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 08:34:31,593 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 965110ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 08:50:42,767 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 971162ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 09:06:56,493 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 973722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 09:22:26,222 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 929722ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 09:35:24,630 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 778405ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 09:36:47,266 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 82635ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 10:59:12,985 INFO 18127 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook-egg/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-11-08 10:59:12,988 INFO 18127 [egg:core] dump config after load, 2ms
+2022-11-08 10:59:13,003 INFO 18127 [egg-watcher] Start watching: ["/Users/jan/Desktop/pocketbook-egg/app","/Users/jan/Desktop/pocketbook-egg/config","/Users/jan/Desktop/pocketbook-egg/mocks","/Users/jan/Desktop/pocketbook-egg/mocks_proxy","/Users/jan/Desktop/pocketbook-egg/app.js"]
+2022-11-08 10:59:13,003 INFO 18127 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app"
+2022-11-08 10:59:13,003 INFO 18127 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/config"
+2022-11-08 10:59:13,003 INFO 18127 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks"
+2022-11-08 10:59:13,003 INFO 18127 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks_proxy"
+2022-11-08 10:59:13,003 INFO 18127 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app.js"
+2022-11-08 10:59:13,003 INFO 18127 [egg-watcher:agent] watcher start success
+2022-11-08 10:59:13,012 INFO 18127 [egg:core] dump config after ready, 2ms
+2022-11-08 11:02:07,982 WARN 18127 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:02:07,559 INFO 18127 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":230,"blocks":8,"atimeMs":1667876527527.2607,"mtimeMs":1667876527495.251,"ctimeMs":1667876527495.251,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:02:07.527Z","mtime":"2022-11-08T03:02:07.495Z","ctime":"2022-11-08T03:02:07.495Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:02:07,728 INFO 18127 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":230,"blocks":8,"atimeMs":1667876527527.2607,"mtimeMs":1667876527716.5254,"ctimeMs":1667876527716.5254,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:02:07.527Z","mtime":"2022-11-08T03:02:07.717Z","ctime":"2022-11-08T03:02:07.717Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:02:07,779 INFO 18127 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":230,"blocks":8,"atimeMs":1667876527527.2607,"mtimeMs":1667876527716.5254,"ctimeMs":1667876527716.5254,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:02:07.527Z","mtime":"2022-11-08T03:02:07.717Z","ctime":"2022-11-08T03:02:07.717Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:02:13,166 INFO 18285 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook-egg/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-11-08 11:02:13,169 INFO 18285 [egg:core] dump config after load, 1ms
+2022-11-08 11:02:13,183 INFO 18285 [egg-watcher] Start watching: ["/Users/jan/Desktop/pocketbook-egg/app","/Users/jan/Desktop/pocketbook-egg/config","/Users/jan/Desktop/pocketbook-egg/mocks","/Users/jan/Desktop/pocketbook-egg/mocks_proxy","/Users/jan/Desktop/pocketbook-egg/app.js"]
+2022-11-08 11:02:13,183 INFO 18285 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app"
+2022-11-08 11:02:13,183 INFO 18285 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/config"
+2022-11-08 11:02:13,183 INFO 18285 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks"
+2022-11-08 11:02:13,183 INFO 18285 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks_proxy"
+2022-11-08 11:02:13,184 INFO 18285 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app.js"
+2022-11-08 11:02:13,184 INFO 18285 [egg-watcher:agent] watcher start success
+2022-11-08 11:02:13,189 INFO 18285 [egg:core] dump config after ready, 2ms
+2022-11-08 11:03:13,054 INFO 18339 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook-egg/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-11-08 11:03:13,057 INFO 18339 [egg:core] dump config after load, 2ms
+2022-11-08 11:03:13,074 INFO 18339 [egg-watcher] Start watching: ["/Users/jan/Desktop/pocketbook-egg/app","/Users/jan/Desktop/pocketbook-egg/config","/Users/jan/Desktop/pocketbook-egg/mocks","/Users/jan/Desktop/pocketbook-egg/mocks_proxy","/Users/jan/Desktop/pocketbook-egg/app.js"]
+2022-11-08 11:03:13,074 INFO 18339 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app"
+2022-11-08 11:03:13,074 INFO 18339 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/config"
+2022-11-08 11:03:13,074 INFO 18339 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks"
+2022-11-08 11:03:13,074 INFO 18339 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks_proxy"
+2022-11-08 11:03:13,074 INFO 18339 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app.js"
+2022-11-08 11:03:13,074 INFO 18339 [egg-watcher:agent] watcher start success
+2022-11-08 11:03:13,080 INFO 18339 [egg:core] dump config after ready, 2ms
+2022-11-08 11:10:30,059 INFO 18810 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook-egg/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-11-08 11:10:30,062 INFO 18810 [egg:core] dump config after load, 2ms
+2022-11-08 11:10:30,081 INFO 18810 [egg-watcher] Start watching: ["/Users/jan/Desktop/pocketbook-egg/app","/Users/jan/Desktop/pocketbook-egg/config","/Users/jan/Desktop/pocketbook-egg/mocks","/Users/jan/Desktop/pocketbook-egg/mocks_proxy","/Users/jan/Desktop/pocketbook-egg/app.js"]
+2022-11-08 11:10:30,081 INFO 18810 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app"
+2022-11-08 11:10:30,081 INFO 18810 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/config"
+2022-11-08 11:10:30,081 INFO 18810 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks"
+2022-11-08 11:10:30,081 INFO 18810 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks_proxy"
+2022-11-08 11:10:30,081 INFO 18810 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app.js"
+2022-11-08 11:10:30,081 INFO 18810 [egg-watcher:agent] watcher start success
+2022-11-08 11:10:30,090 INFO 18810 [egg:core] dump config after ready, 4ms
+2022-11-08 11:11:49,885 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:11:49,503 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":252,"blocks":8,"atimeMs":1667877109472.2441,"mtimeMs":1667877109440.6826,"ctimeMs":1667877109440.6826,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:11:49.472Z","mtime":"2022-11-08T03:11:49.441Z","ctime":"2022-11-08T03:11:49.441Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:11:49,633 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":252,"blocks":8,"atimeMs":1667877109472.2441,"mtimeMs":1667877109622.4075,"ctimeMs":1667877109622.4075,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:11:49.472Z","mtime":"2022-11-08T03:11:49.622Z","ctime":"2022-11-08T03:11:49.622Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:11:49,683 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":252,"blocks":8,"atimeMs":1667877109472.2441,"mtimeMs":1667877109622.4075,"ctimeMs":1667877109622.4075,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:11:49.472Z","mtime":"2022-11-08T03:11:49.622Z","ctime":"2022-11-08T03:11:49.622Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:18:23,260 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:18:22,823 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":257,"blocks":8,"atimeMs":1667877502791.873,"mtimeMs":1667877502758.4631,"ctimeMs":1667877502758.4631,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:18:22.792Z","mtime":"2022-11-08T03:18:22.758Z","ctime":"2022-11-08T03:18:22.758Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:18:23,008 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":257,"blocks":8,"atimeMs":1667877502791.873,"mtimeMs":1667877502997.8638,"ctimeMs":1667877502997.8638,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:18:22.792Z","mtime":"2022-11-08T03:18:22.998Z","ctime":"2022-11-08T03:18:22.998Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:18:23,059 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":257,"blocks":8,"atimeMs":1667877502791.873,"mtimeMs":1667877502997.8638,"ctimeMs":1667877502997.8638,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:18:22.792Z","mtime":"2022-11-08T03:18:22.998Z","ctime":"2022-11-08T03:18:22.998Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:18:33,120 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:18:32,867 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":259,"blocks":8,"atimeMs":1667877504277.8977,"mtimeMs":1667877512855.724,"ctimeMs":1667877512855.724,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:18:24.278Z","mtime":"2022-11-08T03:18:32.856Z","ctime":"2022-11-08T03:18:32.856Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:18:32,918 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":259,"blocks":8,"atimeMs":1667877512887.631,"mtimeMs":1667877512855.724,"ctimeMs":1667877512855.724,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:18:32.888Z","mtime":"2022-11-08T03:18:32.856Z","ctime":"2022-11-08T03:18:32.856Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:22:11,686 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":265,"blocks":8,"atimeMs":1667877731658.7,"mtimeMs":1667877731624.2385,"ctimeMs":1667877731624.2385,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:22:11.659Z","mtime":"2022-11-08T03:22:11.624Z","ctime":"2022-11-08T03:22:11.624Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:22:12,095 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:22:11,843 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":265,"blocks":8,"atimeMs":1667877731658.7,"mtimeMs":1667877731831.3281,"ctimeMs":1667877731831.3281,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:22:11.659Z","mtime":"2022-11-08T03:22:11.831Z","ctime":"2022-11-08T03:22:11.831Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:22:11,894 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":265,"blocks":8,"atimeMs":1667877731658.7,"mtimeMs":1667877731831.3281,"ctimeMs":1667877731831.3281,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:22:11.659Z","mtime":"2022-11-08T03:22:11.831Z","ctime":"2022-11-08T03:22:11.831Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:22:32,765 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":259,"blocks":8,"atimeMs":1667877752735.7983,"mtimeMs":1667877752703.4297,"ctimeMs":1667877752703.4297,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:22:32.736Z","mtime":"2022-11-08T03:22:32.703Z","ctime":"2022-11-08T03:22:32.703Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:22:32,966 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:23:04,538 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":260,"blocks":8,"atimeMs":1667877784508.3323,"mtimeMs":1667877784476.6821,"ctimeMs":1667877784476.6821,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:23:04.508Z","mtime":"2022-11-08T03:23:04.477Z","ctime":"2022-11-08T03:23:04.477Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:23:04,651 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":260,"blocks":8,"atimeMs":1667877784508.3323,"mtimeMs":1667877784639.504,"ctimeMs":1667877784639.504,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:23:04.508Z","mtime":"2022-11-08T03:23:04.640Z","ctime":"2022-11-08T03:23:04.640Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:23:04,701 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":260,"blocks":8,"atimeMs":1667877784508.3323,"mtimeMs":1667877784639.504,"ctimeMs":1667877784639.504,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:23:04.508Z","mtime":"2022-11-08T03:23:04.640Z","ctime":"2022-11-08T03:23:04.640Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:23:04,902 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:31:13,185 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 11:31:12,984 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":229,"blocks":8,"atimeMs":1667878272953.1528,"mtimeMs":1667878272920.4712,"ctimeMs":1667878272920.4712,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T03:31:12.953Z","mtime":"2022-11-08T03:31:12.920Z","ctime":"2022-11-08T03:31:12.920Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:31:26,912 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:31:26,660 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":387,"blocks":8,"atimeMs":1667877786059.9626,"mtimeMs":1667878286648.4028,"ctimeMs":1667878286648.4028,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:23:06.060Z","mtime":"2022-11-08T03:31:26.648Z","ctime":"2022-11-08T03:31:26.648Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:31:26,711 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":387,"blocks":8,"atimeMs":1667878286680.6777,"mtimeMs":1667878286648.4028,"ctimeMs":1667878286648.4028,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:31:26.681Z","mtime":"2022-11-08T03:31:26.648Z","ctime":"2022-11-08T03:31:26.648Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:31:59,074 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:31:58,873 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":367,"blocks":8,"atimeMs":1667878318843.4744,"mtimeMs":1667878318810.2822,"ctimeMs":1667878318810.2822,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:31:58.843Z","mtime":"2022-11-08T03:31:58.810Z","ctime":"2022-11-08T03:31:58.810Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:01,092 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":367,"blocks":8,"atimeMs":1667878320136.8672,"mtimeMs":1667878321080.0698,"ctimeMs":1667878321080.0698,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:00.137Z","mtime":"2022-11-08T03:32:01.080Z","ctime":"2022-11-08T03:32:01.080Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:01,152 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":367,"blocks":8,"atimeMs":1667878320136.8672,"mtimeMs":1667878321080.0698,"ctimeMs":1667878321080.0698,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:00.137Z","mtime":"2022-11-08T03:32:01.080Z","ctime":"2022-11-08T03:32:01.080Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:01,254 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":367,"blocks":8,"atimeMs":1667878320136.8672,"mtimeMs":1667878321239.573,"ctimeMs":1667878321239.573,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:00.137Z","mtime":"2022-11-08T03:32:01.240Z","ctime":"2022-11-08T03:32:01.240Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:01,304 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":367,"blocks":8,"atimeMs":1667878320136.8672,"mtimeMs":1667878321239.573,"ctimeMs":1667878321239.573,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:00.137Z","mtime":"2022-11-08T03:32:01.240Z","ctime":"2022-11-08T03:32:01.240Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:01,504 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:32:37,161 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":360,"blocks":8,"atimeMs":1667878357128.377,"mtimeMs":1667878357098.584,"ctimeMs":1667878357098.584,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:37.128Z","mtime":"2022-11-08T03:32:37.099Z","ctime":"2022-11-08T03:32:37.099Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:37,299 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":360,"blocks":8,"atimeMs":1667878357128.377,"mtimeMs":1667878357287.5361,"ctimeMs":1667878357287.5361,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:37.128Z","mtime":"2022-11-08T03:32:37.288Z","ctime":"2022-11-08T03:32:37.288Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:37,350 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":360,"blocks":8,"atimeMs":1667878357128.377,"mtimeMs":1667878357287.5361,"ctimeMs":1667878357287.5361,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:37.128Z","mtime":"2022-11-08T03:32:37.288Z","ctime":"2022-11-08T03:32:37.288Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:37,737 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:32:37,485 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":360,"blocks":8,"atimeMs":1667878357128.377,"mtimeMs":1667878357473.2283,"ctimeMs":1667878357473.2283,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:37.128Z","mtime":"2022-11-08T03:32:37.473Z","ctime":"2022-11-08T03:32:37.473Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:32:37,535 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":360,"blocks":8,"atimeMs":1667878357128.377,"mtimeMs":1667878357473.2283,"ctimeMs":1667878357473.2283,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:32:37.128Z","mtime":"2022-11-08T03:32:37.473Z","ctime":"2022-11-08T03:32:37.473Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:33:47,245 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:33:47,043 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":396,"blocks":8,"atimeMs":1667878427012.287,"mtimeMs":1667878426980.7556,"ctimeMs":1667878426980.7556,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:33:47.012Z","mtime":"2022-11-08T03:33:46.981Z","ctime":"2022-11-08T03:33:46.981Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:43:31,299 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 11:43:31,097 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":271,"blocks":8,"atimeMs":1667879011065.534,"mtimeMs":1667879011033.2354,"ctimeMs":1667879011033.2354,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T03:43:31.066Z","mtime":"2022-11-08T03:43:31.033Z","ctime":"2022-11-08T03:43:31.033Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:44:28,982 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":628,"blocks":8,"atimeMs":1667879068952.5999,"mtimeMs":1667879068919.8594,"ctimeMs":1667879068919.8594,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:28.953Z","mtime":"2022-11-08T03:44:28.920Z","ctime":"2022-11-08T03:44:28.920Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:44:29,183 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:44:41,469 WARN 18810 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 11:44:41,216 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":607,"blocks":8,"atimeMs":1667879069351.0466,"mtimeMs":1667879081205.4714,"ctimeMs":1667879081205.4714,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:29.351Z","mtime":"2022-11-08T03:44:41.205Z","ctime":"2022-11-08T03:44:41.205Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 11:44:41,267 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":607,"blocks":8,"atimeMs":1667879081237.122,"mtimeMs":1667879081205.4714,"ctimeMs":1667879081205.4714,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:41.237Z","mtime":"2022-11-08T03:44:41.205Z","ctime":"2022-11-08T03:44:41.205Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 12:18:16,696 ERROR 18810 nodejs.ClusterClientNoResponseError: client no response in 919837ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 18810
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 12:24:18,242 ERROR 18810 nodejs.ClusterClientNoResponseError: client no response in 338325ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 18810
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 12:43:45,900 ERROR 18810 nodejs.ClusterClientNoResponseError: client no response in 1027516ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 18810
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 13:00:51,642 ERROR 18810 nodejs.ClusterClientNoResponseError: client no response in 1025734ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 18810
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 13:08:04,478 ERROR 18810 nodejs.ClusterClientNoResponseError: client no response in 432832ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 18810
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 13:22:32,961 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":607,"blocks":8,"atimeMs":1667879083091.9553,"mtimeMs":1667884952895.811,"ctimeMs":1667884952895.811,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:43.092Z","mtime":"2022-11-08T05:22:32.896Z","ctime":"2022-11-08T05:22:32.896Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:22:33,086 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":607,"blocks":8,"atimeMs":1667879083091.9553,"mtimeMs":1667884953074.4553,"ctimeMs":1667884953074.4553,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:43.092Z","mtime":"2022-11-08T05:22:33.074Z","ctime":"2022-11-08T05:22:33.074Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:22:33,136 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":607,"blocks":8,"atimeMs":1667879083091.9553,"mtimeMs":1667884953074.4553,"ctimeMs":1667884953074.4553,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:43.092Z","mtime":"2022-11-08T05:22:33.074Z","ctime":"2022-11-08T05:22:33.074Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:22:33,247 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":607,"blocks":8,"atimeMs":1667879083091.9553,"mtimeMs":1667884953235.6975,"ctimeMs":1667884953235.6975,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:43.092Z","mtime":"2022-11-08T05:22:33.236Z","ctime":"2022-11-08T05:22:33.236Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:22:33,297 INFO 18810 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":607,"blocks":8,"atimeMs":1667879083091.9553,"mtimeMs":1667884953235.6975,"ctimeMs":1667884953235.6975,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T03:44:43.092Z","mtime":"2022-11-08T05:22:33.236Z","ctime":"2022-11-08T05:22:33.236Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:22:36,020 INFO 19659 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook-egg/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-11-08 13:22:36,024 INFO 19659 [egg:core] dump config after load, 2ms
+2022-11-08 13:22:36,038 INFO 19659 [egg-watcher] Start watching: ["/Users/jan/Desktop/pocketbook-egg/app","/Users/jan/Desktop/pocketbook-egg/config","/Users/jan/Desktop/pocketbook-egg/mocks","/Users/jan/Desktop/pocketbook-egg/mocks_proxy","/Users/jan/Desktop/pocketbook-egg/app.js"]
+2022-11-08 13:22:36,038 INFO 19659 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app"
+2022-11-08 13:22:36,038 INFO 19659 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/config"
+2022-11-08 13:22:36,038 INFO 19659 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks"
+2022-11-08 13:22:36,038 INFO 19659 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks_proxy"
+2022-11-08 13:22:36,038 INFO 19659 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app.js"
+2022-11-08 13:22:36,038 INFO 19659 [egg-watcher:agent] watcher start success
+2022-11-08 13:22:36,051 INFO 19659 [egg:core] dump config after ready, 5ms
+2022-11-08 13:25:32,931 INFO 19719 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook-egg/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"agent"}
+2022-11-08 13:25:32,934 INFO 19719 [egg:core] dump config after load, 2ms
+2022-11-08 13:25:32,951 INFO 19719 [egg-watcher] Start watching: ["/Users/jan/Desktop/pocketbook-egg/app","/Users/jan/Desktop/pocketbook-egg/config","/Users/jan/Desktop/pocketbook-egg/mocks","/Users/jan/Desktop/pocketbook-egg/mocks_proxy","/Users/jan/Desktop/pocketbook-egg/app.js"]
+2022-11-08 13:25:32,951 INFO 19719 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app"
+2022-11-08 13:25:32,951 INFO 19719 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/config"
+2022-11-08 13:25:32,951 INFO 19719 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks"
+2022-11-08 13:25:32,951 INFO 19719 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/mocks_proxy"
+2022-11-08 13:25:32,951 INFO 19719 [egg-watcher] Start watching: "/Users/jan/Desktop/pocketbook-egg/app.js"
+2022-11-08 13:25:32,951 INFO 19719 [egg-watcher:agent] watcher start success
+2022-11-08 13:25:32,957 INFO 19719 [egg:core] dump config after ready, 2ms
+2022-11-08 13:25:53,420 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":271,"blocks":8,"atimeMs":1667879013082.4006,"mtimeMs":1667885153357.3123,"ctimeMs":1667885153357.3123,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T03:43:33.082Z","mtime":"2022-11-08T05:25:53.357Z","ctime":"2022-11-08T05:25:53.357Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:25:53,588 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":271,"blocks":8,"atimeMs":1667879013082.4006,"mtimeMs":1667885153575.8516,"ctimeMs":1667885153575.8516,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T03:43:33.082Z","mtime":"2022-11-08T05:25:53.576Z","ctime":"2022-11-08T05:25:53.576Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:25:53,638 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":271,"blocks":8,"atimeMs":1667879013082.4006,"mtimeMs":1667885153575.8516,"ctimeMs":1667885153575.8516,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T03:43:33.082Z","mtime":"2022-11-08T05:25:53.576Z","ctime":"2022-11-08T05:25:53.576Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:25:53,772 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":271,"blocks":8,"atimeMs":1667879013082.4006,"mtimeMs":1667885153760.4917,"ctimeMs":1667885153760.4917,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T03:43:33.082Z","mtime":"2022-11-08T05:25:53.760Z","ctime":"2022-11-08T05:25:53.760Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:25:53,823 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":271,"blocks":8,"atimeMs":1667879013082.4006,"mtimeMs":1667885153760.4917,"ctimeMs":1667885153760.4917,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T03:43:33.082Z","mtime":"2022-11-08T05:25:53.760Z","ctime":"2022-11-08T05:25:53.760Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:25:54,025 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 13:26:32,801 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:26:32,599 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":628,"blocks":8,"atimeMs":1667885192569.3232,"mtimeMs":1667885192536.4128,"ctimeMs":1667885192536.4128,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:26:32.569Z","mtime":"2022-11-08T05:26:32.536Z","ctime":"2022-11-08T05:26:32.536Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:30:03,455 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:30:03,252 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":628,"blocks":8,"atimeMs":1667885194122.3113,"mtimeMs":1667885403189.8008,"ctimeMs":1667885403189.8008,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:26:34.122Z","mtime":"2022-11-08T05:30:03.190Z","ctime":"2022-11-08T05:30:03.190Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:38:55,756 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/config/config.default.js change
+2022-11-08 13:38:55,554 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/config/config.default.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5449000,"size":697,"blocks":8,"atimeMs":1667885935522.8186,"mtimeMs":1667885935489.851,"ctimeMs":1667885935489.851,"birthtimeMs":1667812229647.3203,"atime":"2022-11-08T05:38:55.523Z","mtime":"2022-11-08T05:38:55.490Z","ctime":"2022-11-08T05:38:55.490Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:40:34,405 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/service","stat":{"dev":16777233,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5529603,"size":64,"blocks":0,"atimeMs":1667886034342.5938,"mtimeMs":1667886034342.5938,"ctimeMs":1667886034342.5938,"birthtimeMs":1667886034342.5938,"atime":"2022-11-08T05:40:34.343Z","mtime":"2022-11-08T05:40:34.343Z","ctime":"2022-11-08T05:40:34.343Z","birthtime":"2022-11-08T05:40:34.343Z"},"remove":false,"isDirectory":true,"isFile":false}
+2022-11-08 13:40:39,912 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/service/home.js rename
+2022-11-08 13:40:39,710 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/service/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5529613,"size":0,"blocks":0,"atimeMs":1667886039697.5298,"mtimeMs":1667886039697.5298,"ctimeMs":1667886039697.5298,"birthtimeMs":1667886039697.5298,"atime":"2022-11-08T05:40:39.698Z","mtime":"2022-11-08T05:40:39.698Z","ctime":"2022-11-08T05:40:39.698Z","birthtime":"2022-11-08T05:40:39.698Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:41:45,988 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/service/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5529613,"size":270,"blocks":8,"atimeMs":1667886105970.507,"mtimeMs":1667886105925.829,"ctimeMs":1667886105925.829,"birthtimeMs":1667886039697.5298,"atime":"2022-11-08T05:41:45.971Z","mtime":"2022-11-08T05:41:45.926Z","ctime":"2022-11-08T05:41:45.926Z","birthtime":"2022-11-08T05:40:39.698Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:41:46,190 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/service/home.js change
+2022-11-08 13:42:52,723 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/service/home.js change
+2022-11-08 13:42:52,521 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/service/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5529613,"size":274,"blocks":8,"atimeMs":1667886172490.9849,"mtimeMs":1667886172457.8398,"ctimeMs":1667886172457.8398,"birthtimeMs":1667886039697.5298,"atime":"2022-11-08T05:42:52.491Z","mtime":"2022-11-08T05:42:52.458Z","ctime":"2022-11-08T05:42:52.458Z","birthtime":"2022-11-08T05:40:39.698Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:43:48,096 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":788,"blocks":8,"atimeMs":1667886228067.3828,"mtimeMs":1667886228033.5908,"ctimeMs":1667886228033.5908,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:43:48.067Z","mtime":"2022-11-08T05:43:48.034Z","ctime":"2022-11-08T05:43:48.034Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:43:48,297 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:45:20,888 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:45:20,688 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":794,"blocks":8,"atimeMs":1667886320658.2417,"mtimeMs":1667886320625.6667,"ctimeMs":1667886320625.6667,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:45:20.658Z","mtime":"2022-11-08T05:45:20.626Z","ctime":"2022-11-08T05:45:20.626Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:46:52,031 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:46:51,830 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":794,"blocks":8,"atimeMs":1667886411800.1753,"mtimeMs":1667886411767.533,"ctimeMs":1667886411767.533,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:46:51.800Z","mtime":"2022-11-08T05:46:51.768Z","ctime":"2022-11-08T05:46:51.768Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:01,723 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:47:01,471 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":794,"blocks":8,"atimeMs":1667886414314.5547,"mtimeMs":1667886421458.608,"ctimeMs":1667886421458.608,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:46:54.315Z","mtime":"2022-11-08T05:47:01.459Z","ctime":"2022-11-08T05:47:01.459Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:01,521 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":794,"blocks":8,"atimeMs":1667886421491.1296,"mtimeMs":1667886421458.608,"ctimeMs":1667886421458.608,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:47:01.491Z","mtime":"2022-11-08T05:47:01.459Z","ctime":"2022-11-08T05:47:01.459Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:12,299 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":794,"blocks":8,"atimeMs":1667886422958.1057,"mtimeMs":1667886432287.992,"ctimeMs":1667886432287.992,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:47:02.958Z","mtime":"2022-11-08T05:47:12.288Z","ctime":"2022-11-08T05:47:12.288Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:12,350 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":794,"blocks":8,"atimeMs":1667886432319.0476,"mtimeMs":1667886432287.992,"ctimeMs":1667886432287.992,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:47:12.319Z","mtime":"2022-11-08T05:47:12.288Z","ctime":"2022-11-08T05:47:12.288Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:12,551 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:47:28,012 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 13:47:27,616 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":322,"blocks":8,"atimeMs":1667886447575.6907,"mtimeMs":1667886447553.1921,"ctimeMs":1667886447553.1921,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T05:47:27.576Z","mtime":"2022-11-08T05:47:27.553Z","ctime":"2022-11-08T05:47:27.553Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:27,760 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":322,"blocks":8,"atimeMs":1667886447575.6907,"mtimeMs":1667886447748,"ctimeMs":1667886447748,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T05:47:27.576Z","mtime":"2022-11-08T05:47:27.748Z","ctime":"2022-11-08T05:47:27.748Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:27,811 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":322,"blocks":8,"atimeMs":1667886447575.6907,"mtimeMs":1667886447748,"ctimeMs":1667886447748,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T05:47:27.576Z","mtime":"2022-11-08T05:47:27.748Z","ctime":"2022-11-08T05:47:27.748Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:40,122 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":326,"blocks":8,"atimeMs":1667886449393.083,"mtimeMs":1667886460110.5496,"ctimeMs":1667886460110.5496,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T05:47:29.393Z","mtime":"2022-11-08T05:47:40.111Z","ctime":"2022-11-08T05:47:40.111Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:40,173 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":326,"blocks":8,"atimeMs":1667886460141.2075,"mtimeMs":1667886460110.5496,"ctimeMs":1667886460110.5496,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T05:47:40.141Z","mtime":"2022-11-08T05:47:40.111Z","ctime":"2022-11-08T05:47:40.111Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:40,333 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":326,"blocks":8,"atimeMs":1667886460141.2075,"mtimeMs":1667886460320.859,"ctimeMs":1667886460320.859,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T05:47:40.141Z","mtime":"2022-11-08T05:47:40.321Z","ctime":"2022-11-08T05:47:40.321Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:40,384 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":326,"blocks":8,"atimeMs":1667886460141.2075,"mtimeMs":1667886460320.859,"ctimeMs":1667886460320.859,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T05:47:40.141Z","mtime":"2022-11-08T05:47:40.321Z","ctime":"2022-11-08T05:47:40.321Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:47:40,586 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 13:48:56,981 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/config/plugin.js change
+2022-11-08 13:48:56,779 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/config/plugin.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5449001,"size":190,"blocks":8,"atimeMs":1667886536749.2773,"mtimeMs":1667886536716.9219,"ctimeMs":1667886536716.9219,"birthtimeMs":1667812229647.5415,"atime":"2022-11-08T05:48:56.749Z","mtime":"2022-11-08T05:48:56.717Z","ctime":"2022-11-08T05:48:56.717Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:49:18,483 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/config/config.default.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5449000,"size":807,"blocks":8,"atimeMs":1667886558455.703,"mtimeMs":1667886558420.504,"ctimeMs":1667886558420.504,"birthtimeMs":1667812229647.3203,"atime":"2022-11-08T05:49:18.456Z","mtime":"2022-11-08T05:49:18.421Z","ctime":"2022-11-08T05:49:18.421Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:49:18,683 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/config/config.default.js change
+2022-11-08 13:49:44,513 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/view","stat":{"dev":16777233,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5530645,"size":64,"blocks":0,"atimeMs":1667886584451.471,"mtimeMs":1667886584451.471,"ctimeMs":1667886584451.471,"birthtimeMs":1667886584451.471,"atime":"2022-11-08T05:49:44.451Z","mtime":"2022-11-08T05:49:44.451Z","ctime":"2022-11-08T05:49:44.451Z","birthtime":"2022-11-08T05:49:44.451Z"},"remove":false,"isDirectory":true,"isFile":false}
+2022-11-08 13:49:52,082 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/view/index.html","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5530650,"size":0,"blocks":0,"atimeMs":1667886592070.9014,"mtimeMs":1667886592070.9014,"ctimeMs":1667886592070.9014,"birthtimeMs":1667886592070.9014,"atime":"2022-11-08T05:49:52.071Z","mtime":"2022-11-08T05:49:52.071Z","ctime":"2022-11-08T05:49:52.071Z","birthtime":"2022-11-08T05:49:52.071Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:49:58,585 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/view/index.html","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5530650,"size":317,"blocks":8,"atimeMs":1667886592070.9014,"mtimeMs":1667886598572.766,"ctimeMs":1667886598572.766,"birthtimeMs":1667886592070.9014,"atime":"2022-11-08T05:49:52.071Z","mtime":"2022-11-08T05:49:58.573Z","ctime":"2022-11-08T05:49:58.573Z","birthtime":"2022-11-08T05:49:52.071Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:49:58,635 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/view/index.html","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5530650,"size":317,"blocks":8,"atimeMs":1667886598605.1575,"mtimeMs":1667886598572.766,"ctimeMs":1667886598572.766,"birthtimeMs":1667886592070.9014,"atime":"2022-11-08T05:49:58.605Z","mtime":"2022-11-08T05:49:58.573Z","ctime":"2022-11-08T05:49:58.573Z","birthtime":"2022-11-08T05:49:52.071Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:49:58,781 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/view/index.html","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5530650,"size":317,"blocks":8,"atimeMs":1667886598605.1575,"mtimeMs":1667886598769.7888,"ctimeMs":1667886598769.7888,"birthtimeMs":1667886592070.9014,"atime":"2022-11-08T05:49:58.605Z","mtime":"2022-11-08T05:49:58.770Z","ctime":"2022-11-08T05:49:58.770Z","birthtime":"2022-11-08T05:49:52.071Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:49:58,832 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/jan/Desktop/pocketbook-egg/app/view/index.html","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5530650,"size":317,"blocks":8,"atimeMs":1667886598605.1575,"mtimeMs":1667886598769.7888,"ctimeMs":1667886598769.7888,"birthtimeMs":1667886592070.9014,"atime":"2022-11-08T05:49:58.605Z","mtime":"2022-11-08T05:49:58.770Z","ctime":"2022-11-08T05:49:58.770Z","birthtime":"2022-11-08T05:49:52.071Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:06,510 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:52:06,309 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":916,"blocks":8,"atimeMs":1667886726278.534,"mtimeMs":1667886726246.8435,"ctimeMs":1667886726246.8435,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:06.279Z","mtime":"2022-11-08T05:52:06.247Z","ctime":"2022-11-08T05:52:06.247Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:10,272 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 13:52:09,844 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":924,"blocks":8,"atimeMs":1667886727777.8242,"mtimeMs":1667886729832.3694,"ctimeMs":1667886729832.3694,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:07.778Z","mtime":"2022-11-08T05:52:09.832Z","ctime":"2022-11-08T05:52:09.832Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:09,894 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":924,"blocks":8,"atimeMs":1667886729863.393,"mtimeMs":1667886729832.3694,"ctimeMs":1667886729832.3694,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:09.863Z","mtime":"2022-11-08T05:52:09.832Z","ctime":"2022-11-08T05:52:09.832Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:10,019 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":924,"blocks":8,"atimeMs":1667886729863.393,"mtimeMs":1667886730007.921,"ctimeMs":1667886730007.921,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:09.863Z","mtime":"2022-11-08T05:52:10.008Z","ctime":"2022-11-08T05:52:10.008Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:10,070 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":924,"blocks":8,"atimeMs":1667886729863.393,"mtimeMs":1667886730007.921,"ctimeMs":1667886730007.921,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:09.863Z","mtime":"2022-11-08T05:52:10.008Z","ctime":"2022-11-08T05:52:10.008Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:26,474 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":920,"blocks":8,"atimeMs":1667886746442.4905,"mtimeMs":1667886746412.387,"ctimeMs":1667886746412.387,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:26.442Z","mtime":"2022-11-08T05:52:26.412Z","ctime":"2022-11-08T05:52:26.412Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:26,605 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":920,"blocks":8,"atimeMs":1667886746442.4905,"mtimeMs":1667886746594.5098,"ctimeMs":1667886746594.5098,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:26.442Z","mtime":"2022-11-08T05:52:26.595Z","ctime":"2022-11-08T05:52:26.595Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:26,656 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/controller/home.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448998,"size":920,"blocks":8,"atimeMs":1667886746442.4905,"mtimeMs":1667886746594.5098,"ctimeMs":1667886746594.5098,"birthtimeMs":1667812229647.8362,"atime":"2022-11-08T05:52:26.442Z","mtime":"2022-11-08T05:52:26.595Z","ctime":"2022-11-08T05:52:26.595Z","birthtime":"2022-11-07T09:10:29.648Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 13:52:26,857 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/controller/home.js change
+2022-11-08 15:10:48,707 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 621094ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 16:19:03,595 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 16:19:03,393 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":182,"blocks":8,"atimeMs":1667895543360.8564,"mtimeMs":1667895543328.0862,"ctimeMs":1667895543328.0862,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T08:19:03.361Z","mtime":"2022-11-08T08:19:03.328Z","ctime":"2022-11-08T08:19:03.328Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 16:19:16,686 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 16:19:16,434 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":326,"blocks":8,"atimeMs":1667895546042.1116,"mtimeMs":1667895556422.1519,"ctimeMs":1667895556422.1519,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T08:19:06.042Z","mtime":"2022-11-08T08:19:16.422Z","ctime":"2022-11-08T08:19:16.422Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 16:19:16,484 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":326,"blocks":8,"atimeMs":1667895556454.552,"mtimeMs":1667895556422.1519,"ctimeMs":1667895556422.1519,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T08:19:16.455Z","mtime":"2022-11-08T08:19:16.422Z","ctime":"2022-11-08T08:19:16.422Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 16:20:25,962 WARN 19719 [agent:development] reload worker because /Users/jan/Desktop/pocketbook-egg/app/router.js change
+2022-11-08 16:20:25,761 INFO 19719 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/jan/Desktop/pocketbook-egg/app/router.js","stat":{"dev":16777233,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":5448999,"size":326,"blocks":8,"atimeMs":1667895625760.6301,"mtimeMs":1667895625703.3633,"ctimeMs":1667895625703.3633,"birthtimeMs":1667812229647.0642,"atime":"2022-11-08T08:20:25.761Z","mtime":"2022-11-08T08:20:25.703Z","ctime":"2022-11-08T08:20:25.703Z","birthtime":"2022-11-07T09:10:29.647Z"},"remove":false,"isDirectory":false,"isFile":true}
+2022-11-08 20:16:29,579 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 62323ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 20:18:40,176 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 90325ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 20:37:34,335 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 354289ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 20:45:54,618 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 440095ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 21:03:22,980 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 1008366ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 22:31:31,627 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 938279ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 22:48:06,364 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 954718ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+

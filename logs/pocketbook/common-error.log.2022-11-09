@@ -1,0 +1,680 @@
+2022-11-09 00:36:56,536 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 917396ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 01:54:34,053 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 917102ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 03:11:37,179 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 1022809ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 03:28:34,928 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 977694ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 04:01:56,049 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 929477ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 04:18:39,016 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 962781ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 05:34:17,942 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 918592ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 05:51:27,691 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 989851ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 07:42:17,287 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 986718ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 07:59:11,369 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 954176ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 08:08:54,904 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 543484ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 08:25:16,046 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 941097ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 08:41:30,827 ERROR 19719 nodejs.ClusterClientNoResponseError: client no response in 934779ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 19719
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:48:27,932 ERROR 40152 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40152
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:48:35,180 ERROR 40177 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40177
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:50:20,125 ERROR 40203 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40203
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:53:38,297 ERROR 40236 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40236
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:54:29,571 ERROR 40258 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40258
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:58:24,091 ERROR 40319 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40319
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:58:54,587 ERROR 40330 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40330
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 10:59:07,574 ERROR 40337 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40337
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 11:00:12,539 ERROR 40358 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40358
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 11:02:53,407 ERROR 40422 [-/127.0.0.1/-/0ms GET /] nodejs.ECONNREFUSEDError: connect ECONNREFUSED 127.0.0.1:7001
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1247:16)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+errno: -61
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 7001
+fatal: true
+name: "ECONNREFUSEDError"
+pid: 40422
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 11:03:49,113 ERROR 40465 [-/127.0.0.1/-/0ms GET /] nodejs.ER_NOT_SUPPORTED_AUTH_MODEError: ER_NOT_SUPPORTED_AUTH_MODE: Client does not support authentication protocol requested by server; consider upgrading MySQL client
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_NOT_SUPPORTED_AUTH_MODE"
+errno: 1251
+sqlMessage: "Client does not support authentication protocol requested by server; consider upgrading MySQL client"
+sqlState: "08004"
+fatal: true
+name: "ER_NOT_SUPPORTED_AUTH_MODEError"
+pid: 40465
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 11:59:08,960 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 309192ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 12:04:55,742 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 306773ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 12:20:46,414 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 910668ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 12:39:15,596 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 997189ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 12:43:44,362 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 208719ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 12:55:32,977 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 648563ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 13:06:48,633 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 635642ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 14:18:47,854 ERROR 40690 nodejs.ClusterClientNoResponseError: client no response in 239030ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 40690
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 14:40:05,785 ERROR 44313 [-/127.0.0.1/-/0ms GET /] nodejs.ER_ACCESS_DENIED_ERRORError: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_ACCESS_DENIED_ERROR"
+errno: 1045
+sqlMessage: "Access denied for user 'root'@'localhost' (using password: YES)"
+sqlState: "28000"
+fatal: true
+name: "ER_ACCESS_DENIED_ERRORError"
+pid: 44313
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 14:40:12,993 ERROR 44339 [-/127.0.0.1/-/0ms GET /] nodejs.ER_ACCESS_DENIED_ERRORError: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_ACCESS_DENIED_ERROR"
+errno: 1045
+sqlMessage: "Access denied for user 'root'@'localhost' (using password: YES)"
+sqlState: "28000"
+fatal: true
+name: "ER_ACCESS_DENIED_ERRORError"
+pid: 44339
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 14:40:38,727 ERROR 44362 [-/127.0.0.1/-/0ms GET /] nodejs.ER_ACCESS_DENIED_ERRORError: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_ACCESS_DENIED_ERROR"
+errno: 1045
+sqlMessage: "Access denied for user 'root'@'localhost' (using password: YES)"
+sqlState: "28000"
+fatal: true
+name: "ER_ACCESS_DENIED_ERRORError"
+pid: 44362
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 14:46:41,816 ERROR 44491 [-/127.0.0.1/-/0ms GET /] nodejs.ER_ACCESS_DENIED_ERRORError: ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: NO)
+    at Handshake.Sequence._packetToError (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Handshake.ErrorPacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)
+    at Protocol._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Protocol._enqueue (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:48:16)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:56:34)
+    at Pool.query (/Users/jan/Desktop/pocketbook-egg/node_modules/mysql/lib/Pool.js:202:8)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/ali-rds/node_modules/pify/index.js:29:7
+    sql: select now() as currentTime;
+code: "ER_ACCESS_DENIED_ERROR"
+errno: 1045
+sqlMessage: "Access denied for user 'root'@'localhost' (using password: NO)"
+sqlState: "28000"
+fatal: true
+name: "ER_ACCESS_DENIED_ERRORError"
+pid: 44491
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 19:21:03,080 ERROR 44522 nodejs.ClusterClientNoResponseError: client no response in 163851ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 44522
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 19:35:58,794 ERROR 44522 nodejs.ClusterClientNoResponseError: client no response in 509004ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 44522
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 19:49:57,346 ERROR 44522 nodejs.ClusterClientNoResponseError: client no response in 798538ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 44522
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 20:06:38,012 ERROR 44522 nodejs.ClusterClientNoResponseError: client no response in 960657ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 44522
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-09 22:00:17,743 ERROR 44522 nodejs.ClusterClientNoResponseError: client no response in 75477ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 44522
+hostname: xizijiandeMacBook-Pro.local
+

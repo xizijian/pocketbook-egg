@@ -1,0 +1,16 @@
+2022-11-08 13:37:46,607 WARN 19782 [-/127.0.0.1/-/3ms POST /add] invalid csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2022-11-08 13:37:46,612 WARN 19782 [-/127.0.0.1/-/5ms POST /add] nodejs.ForbiddenError: invalid csrf token
+    at Object.throw (/Users/jan/Desktop/pocketbook-egg/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/jan/Desktop/pocketbook-egg/node_modules/egg-security/app/extend/context.js:163:32)
+    at csrf (/Users/jan/Desktop/pocketbook-egg/node_modules/egg-security/lib/middlewares/csrf.js:39:9)
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at overrideMethod (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-override/index.js:38:12)
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "invalid csrf token"
+pid: 19782
+hostname: xizijiandeMacBook-Pro.local
+

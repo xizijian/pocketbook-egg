@@ -1,0 +1,175 @@
+2022-11-07 17:19:26,631 ERROR 13639 [-/127.0.0.1/-/7ms GET /?id=janxi] nodejs.ReferenceError: debug is not defined
+    at HomeController.index (/Users/jan/Desktop/pocketbook-egg/app/controller/home.js:9:5)
+    at Object.callFn (/Users/jan/Desktop/pocketbook-egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/jan/Desktop/pocketbook-egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/jan/Desktop/pocketbook-egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/jan/Desktop/pocketbook-egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:45:18)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:44:32)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:36:12
+
+pid: 13639
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 18:15:48,366 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 65695ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 18:23:43,942 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 427886ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 18:38:57,337 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 913389ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 19:10:36,937 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 938723ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 19:25:58,494 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 921550ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 19:43:54,150 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1075653ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 20:01:31,516 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1057360ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 20:15:52,370 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 860847ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 20:23:00,525 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 428150ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 20:38:31,949 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 911400ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 20:54:58,568 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 986617ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 21:12:14,515 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1035943ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 21:29:46,252 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1051734ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 22:02:46,669 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 954829ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 22:35:58,081 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1070774ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 22:51:38,692 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 940608ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 23:27:24,944 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 1070656ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 23:43:04,745 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 939798ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-07 23:58:48,387 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 943630ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+
+2022-11-08 00:15:26,043 ERROR 12874 nodejs.ClusterClientNoResponseError: client no response in 997648ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/jan/Desktop/pocketbook-egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ClusterClientNoResponseError"
+pid: 12874
+hostname: xizijiandeMacBook-Pro.local
+

@@ -1,0 +1,15 @@
+2022-11-07 17:19:26,631 ERROR 13639 [-/127.0.0.1/-/7ms GET /?id=janxi] nodejs.ReferenceError: debug is not defined
+    at HomeController.index (/Users/jan/Desktop/pocketbook-egg/app/controller/home.js:9:5)
+    at Object.callFn (/Users/jan/Desktop/pocketbook-egg/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/jan/Desktop/pocketbook-egg/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/jan/Desktop/pocketbook-egg/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/jan/Desktop/pocketbook-egg/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:45:18)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:44:32)
+    at /Users/jan/Desktop/pocketbook-egg/node_modules/koa-compose/index.js:36:12
+
+pid: 13639
+hostname: xizijiandeMacBook-Pro.local
+
