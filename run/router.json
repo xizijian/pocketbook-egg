@@ -96,5 +96,163 @@
     "stack": [
       "wrappedController"
     ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/user/register",
+    "regexp": "/^\\/api\\/user\\/register(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/user/login",
+    "regexp": "/^\\/api\\/user\\/login(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/user/test",
+    "regexp": "/^\\/api\\/user\\/test(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/user/get_userinfo",
+    "regexp": "/^\\/api\\/user\\/get_userinfo(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/user/edit_userinfo",
+    "regexp": "/^\\/api\\/user\\/edit_userinfo(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/upload",
+    "regexp": "/^\\/api\\/upload(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/add",
+    "regexp": "/^\\/api\\/bill\\/add(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/list",
+    "regexp": "/^\\/api\\/bill\\/list(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/detail",
+    "regexp": "/^\\/api\\/bill\\/detail(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/update",
+    "regexp": "/^\\/api\\/bill\\/update(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/delete",
+    "regexp": "/^\\/api\\/bill\\/delete(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/api/bill/data",
+    "regexp": "/^\\/api\\/bill\\/data(?:\\/(?=$))?$/",
+    "stack": [
+      "jwtErr",
+      "wrappedController"
+    ]
   }
 ]

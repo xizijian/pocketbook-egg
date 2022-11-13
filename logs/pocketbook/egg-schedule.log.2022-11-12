@@ -1,0 +1,9 @@
+2022-11-12 04:32:51,742 INFO 68831 [Job#16681987717414890192607222081] /Users/jan/Desktop/pocketbook/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2022-11-12 04:32:51,908 INFO 68831 [Job#16681987717414890192607222081] /Users/jan/Desktop/pocketbook/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 164ms. 
+2022-11-12 04:32:51,742 INFO 67401 [Timer] /Users/jan/Desktop/pocketbook/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 86228259ms at 2022-11-13 04:30:00.001
+2022-11-13 00:09:00,415 INFO 67401 [Timer] /Users/jan/Desktop/pocketbook/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 85859586ms at 2022-11-14 00:00:00.001
+2022-11-13 00:09:00,415 INFO 67401 [Timer] /Users/jan/Desktop/pocketbook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 85860585ms at 2022-11-14 00:00:01.000
+2022-11-13 00:09:00,415 INFO 68831 [Job#16682693404145595879051860002] /Users/jan/Desktop/pocketbook/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2022-11-13 00:09:00,416 INFO 68831 [Job#16682693404155595879061877082] /Users/jan/Desktop/pocketbook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2022-11-13 00:09:00,418 INFO 68831 [Job#16682693404145595879051860002] /Users/jan/Desktop/pocketbook/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 2ms. 
+2022-11-13 00:09:00,421 INFO 68831 [Job#16682693404155595879061877082] /Users/jan/Desktop/pocketbook/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 5ms. 

@@ -1,23 +1,972 @@
-2022-11-10 00:00:01,259 INFO 46552 [egg-logrotator] app logger reload: got log-reload message
-2022-11-10 00:32:07,472 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 00:32:07,472 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 00:48:13,135 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 00:48:13,135 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 01:04:31,663 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 04:30:37,189 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 04:30:37,190 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 04:30:37,193 INFO 46552 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook"
-2022-11-10 04:30:37,352 INFO 46552 [-/127.0.0.1/-/160ms SCHEDULE /__schedule?path=/Users/jan/Desktop/pocketbook-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
-2022-11-10 04:46:37,945 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 04:46:37,945 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 06:19:10,152 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 06:19:10,152 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 07:36:47,228 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 07:36:47,228 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 07:54:43,251 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 07:54:43,252 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 08:11:24,812 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 08:28:21,516 WARN 46552 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
-2022-11-10 08:28:21,516 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 08:42:37,997 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
-2022-11-10 09:00:42,704 WARN 46552 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 00:09:00,422 INFO 68831 [egg-logrotator] app logger reload: got log-reload message
+2022-11-13 00:09:00,434 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 00:09:00,434 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 00:26:38,211 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 00:26:38,211 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 00:43:51,880 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 00:43:51,880 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 01:00:25,548 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 01:00:25,550 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 01:17:18,162 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 01:33:20,875 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 01:50:37,529 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 01:50:37,529 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 02:06:36,242 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 02:23:05,901 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 02:39:55,605 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 02:57:44,226 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 03:15:33,908 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 03:33:35,587 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 03:51:10,978 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 04:07:15,651 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 04:24:47,394 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 04:41:57,851 INFO 68831 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/jan/Desktop/pocketbook/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook"
+2022-11-13 04:41:57,854 INFO 68831 [-/127.0.0.1/-/3ms SCHEDULE /__schedule?path=/Users/jan/Desktop/pocketbook/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2022-11-13 04:41:57,862 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 04:44:44,853 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 05:02:21,436 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 05:02:21,436 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 05:17:51,115 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 05:24:42,756 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 05:24:42,756 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 05:42:06,468 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 05:58:53,135 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 05:58:53,135 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 06:16:42,855 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 06:16:42,855 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 06:32:07,403 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 06:32:07,403 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 06:47:51,061 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 06:47:51,062 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 07:03:10,944 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 07:03:10,945 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 07:18:53,469 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 07:18:53,469 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 07:36:21,110 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 07:54:05,636 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 08:29:33,928 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 08:29:33,929 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 09:39:43,654 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 09:55:10,356 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 10:12:38,083 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 10:30:05,699 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 10:46:57,215 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 11:04:49,029 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 11:20:02,672 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 11:36:23,330 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 11:53:07,954 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 12:09:35,643 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 12:14:38,894 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 12:14:38,894 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 12:31:06,977 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 12:49:03,557 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 12:57:17,305 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 13:14:47,555 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 13:14:47,556 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 13:36:14,361 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-13 13:36:14,362 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 13:41:24,932 INFO 71015 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 13:41:24,932 INFO 71015 [egg-multipart] stream mode enable
+2022-11-13 13:41:24,947 INFO 71015 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 13:41:25,006 INFO 71015 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 13:41:25,007 INFO 71015 [egg-security] use methodnoallow middleware
+2022-11-13 13:41:25,007 INFO 71015 [egg-security] use noopen middleware
+2022-11-13 13:41:25,009 INFO 71015 [egg-security] use nosniff middleware
+2022-11-13 13:41:25,009 INFO 71015 [egg-security] use xssProtection middleware
+2022-11-13 13:41:25,009 INFO 71015 [egg-security] use xframe middleware
+2022-11-13 13:41:25,009 INFO 71015 [egg-security] use dta middleware
+2022-11-13 13:41:25,009 INFO 71015 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 13:41:25,016 INFO 71015 [egg:core] dump config after load, 3ms
+2022-11-13 13:41:25,041 INFO 71015 [egg-watcher:application] watcher start success
+2022-11-13 13:41:25,044 INFO 71015 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 13:41:25 GMT+0800 (中国标准时间)
+2022-11-13 13:41:25,048 INFO 71015 [egg:core] dump config after ready, 2ms
+2022-11-13 14:28:04,810 WARN 71015 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 14:36:39,171 WARN 71015 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 14:46:00,120 INFO 71573 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 14:46:00,120 INFO 71573 [egg-multipart] stream mode enable
+2022-11-13 14:46:00,137 INFO 71573 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 14:46:00,207 INFO 71573 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 14:46:00,208 INFO 71573 [egg-security] use methodnoallow middleware
+2022-11-13 14:46:00,208 INFO 71573 [egg-security] use noopen middleware
+2022-11-13 14:46:00,208 INFO 71573 [egg-security] use nosniff middleware
+2022-11-13 14:46:00,208 INFO 71573 [egg-security] use xssProtection middleware
+2022-11-13 14:46:00,209 INFO 71573 [egg-security] use xframe middleware
+2022-11-13 14:46:00,209 INFO 71573 [egg-security] use dta middleware
+2022-11-13 14:46:00,209 INFO 71573 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 14:46:00,215 INFO 71573 [egg:core] dump config after load, 3ms
+2022-11-13 14:46:00,236 INFO 71573 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 14:46:00 GMT+0800 (中国标准时间)
+2022-11-13 14:46:00,237 INFO 71573 [egg-watcher:application] watcher start success
+2022-11-13 14:46:00,241 INFO 71573 [egg:core] dump config after ready, 3ms
+2022-11-13 14:47:46,574 INFO 71595 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 14:47:46,574 INFO 71595 [egg-multipart] stream mode enable
+2022-11-13 14:47:46,590 INFO 71595 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 14:47:46,646 INFO 71595 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 14:47:46,647 INFO 71595 [egg-security] use methodnoallow middleware
+2022-11-13 14:47:46,648 INFO 71595 [egg-security] use noopen middleware
+2022-11-13 14:47:46,648 INFO 71595 [egg-security] use nosniff middleware
+2022-11-13 14:47:46,648 INFO 71595 [egg-security] use xssProtection middleware
+2022-11-13 14:47:46,648 INFO 71595 [egg-security] use xframe middleware
+2022-11-13 14:47:46,648 INFO 71595 [egg-security] use dta middleware
+2022-11-13 14:47:46,648 INFO 71595 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 14:47:46,653 INFO 71595 [egg:core] dump config after load, 2ms
+2022-11-13 14:47:46,668 INFO 71595 [egg-watcher:application] watcher start success
+2022-11-13 14:47:46,671 INFO 71595 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 14:47:46 GMT+0800 (中国标准时间)
+2022-11-13 14:47:46,674 INFO 71595 [egg:core] dump config after ready, 2ms
+2022-11-13 14:48:15,554 INFO 71615 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 14:48:15,554 INFO 71615 [egg-multipart] stream mode enable
+2022-11-13 14:48:15,570 INFO 71615 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 14:48:15,637 INFO 71615 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 14:48:15,638 INFO 71615 [egg-security] use methodnoallow middleware
+2022-11-13 14:48:15,639 INFO 71615 [egg-security] use noopen middleware
+2022-11-13 14:48:15,639 INFO 71615 [egg-security] use nosniff middleware
+2022-11-13 14:48:15,639 INFO 71615 [egg-security] use xssProtection middleware
+2022-11-13 14:48:15,639 INFO 71615 [egg-security] use xframe middleware
+2022-11-13 14:48:15,639 INFO 71615 [egg-security] use dta middleware
+2022-11-13 14:48:15,639 INFO 71615 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 14:48:15,644 INFO 71615 [egg:core] dump config after load, 2ms
+2022-11-13 14:48:15,661 INFO 71615 [egg-watcher:application] watcher start success
+2022-11-13 14:48:15,665 INFO 71615 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 14:48:15 GMT+0800 (中国标准时间)
+2022-11-13 14:48:15,670 INFO 71615 [egg:core] dump config after ready, 4ms
+2022-11-13 15:03:33,633 INFO 72028 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:03:33,633 INFO 72028 [egg-multipart] stream mode enable
+2022-11-13 15:03:33,647 INFO 72028 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:03:33,693 INFO 72028 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:03:33,694 INFO 72028 [egg-security] use methodnoallow middleware
+2022-11-13 15:03:33,695 INFO 72028 [egg-security] use noopen middleware
+2022-11-13 15:03:33,696 INFO 72028 [egg-security] use nosniff middleware
+2022-11-13 15:03:33,696 INFO 72028 [egg-security] use xssProtection middleware
+2022-11-13 15:03:33,696 INFO 72028 [egg-security] use xframe middleware
+2022-11-13 15:03:33,696 INFO 72028 [egg-security] use dta middleware
+2022-11-13 15:03:33,696 INFO 72028 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:03:33,700 INFO 72028 [egg:core] dump config after load, 2ms
+2022-11-13 15:03:33,715 INFO 72028 [egg-watcher:application] watcher start success
+2022-11-13 15:03:33,717 INFO 72028 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:03:33 GMT+0800 (中国标准时间)
+2022-11-13 15:03:33,720 INFO 72028 [egg:core] dump config after ready, 2ms
+2022-11-13 15:03:52,820 INFO 72065 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:03:52,820 INFO 72065 [egg-multipart] stream mode enable
+2022-11-13 15:03:52,834 INFO 72065 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:03:52,872 INFO 72065 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:03:52,872 INFO 72065 [egg-security] use methodnoallow middleware
+2022-11-13 15:03:52,873 INFO 72065 [egg-security] use noopen middleware
+2022-11-13 15:03:52,873 INFO 72065 [egg-security] use nosniff middleware
+2022-11-13 15:03:52,873 INFO 72065 [egg-security] use xssProtection middleware
+2022-11-13 15:03:52,873 INFO 72065 [egg-security] use xframe middleware
+2022-11-13 15:03:52,873 INFO 72065 [egg-security] use dta middleware
+2022-11-13 15:03:52,873 INFO 72065 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:03:52,878 INFO 72065 [egg:core] dump config after load, 3ms
+2022-11-13 15:03:52,895 INFO 72065 [egg-watcher:application] watcher start success
+2022-11-13 15:03:52,896 INFO 72065 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:03:52 GMT+0800 (中国标准时间)
+2022-11-13 15:03:52,899 INFO 72065 [egg:core] dump config after ready, 2ms
+2022-11-13 15:05:16,974 INFO 72096 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:05:16,974 INFO 72096 [egg-multipart] stream mode enable
+2022-11-13 15:05:16,993 INFO 72096 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:05:17,057 INFO 72096 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:05:17,058 INFO 72096 [egg-security] use methodnoallow middleware
+2022-11-13 15:05:17,059 INFO 72096 [egg-security] use noopen middleware
+2022-11-13 15:05:17,059 INFO 72096 [egg-security] use nosniff middleware
+2022-11-13 15:05:17,059 INFO 72096 [egg-security] use xssProtection middleware
+2022-11-13 15:05:17,059 INFO 72096 [egg-security] use xframe middleware
+2022-11-13 15:05:17,059 INFO 72096 [egg-security] use dta middleware
+2022-11-13 15:05:17,059 INFO 72096 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:05:17,065 INFO 72096 [egg:core] dump config after load, 3ms
+2022-11-13 15:05:17,082 INFO 72096 [egg-watcher:application] watcher start success
+2022-11-13 15:05:17,083 INFO 72096 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:05:17 GMT+0800 (中国标准时间)
+2022-11-13 15:05:17,086 INFO 72096 [egg:core] dump config after ready, 2ms
+2022-11-13 15:05:17,993 INFO 72101 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:05:17,993 INFO 72101 [egg-multipart] stream mode enable
+2022-11-13 15:05:18,007 INFO 72101 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:05:18,045 INFO 72101 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:05:18,046 INFO 72101 [egg-security] use methodnoallow middleware
+2022-11-13 15:05:18,046 INFO 72101 [egg-security] use noopen middleware
+2022-11-13 15:05:18,046 INFO 72101 [egg-security] use nosniff middleware
+2022-11-13 15:05:18,046 INFO 72101 [egg-security] use xssProtection middleware
+2022-11-13 15:05:18,046 INFO 72101 [egg-security] use xframe middleware
+2022-11-13 15:05:18,046 INFO 72101 [egg-security] use dta middleware
+2022-11-13 15:05:18,046 INFO 72101 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:05:18,050 INFO 72101 [egg:core] dump config after load, 2ms
+2022-11-13 15:05:18,068 INFO 72101 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:05:18 GMT+0800 (中国标准时间)
+2022-11-13 15:05:18,069 INFO 72101 [egg-watcher:application] watcher start success
+2022-11-13 15:05:18,075 INFO 72101 [egg:core] dump config after ready, 6ms
+2022-11-13 15:05:58,825 INFO 72119 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:05:58,825 INFO 72119 [egg-multipart] stream mode enable
+2022-11-13 15:05:58,842 INFO 72119 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:05:58,906 INFO 72119 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:05:58,907 INFO 72119 [egg-security] use methodnoallow middleware
+2022-11-13 15:05:58,907 INFO 72119 [egg-security] use noopen middleware
+2022-11-13 15:05:58,908 INFO 72119 [egg-security] use nosniff middleware
+2022-11-13 15:05:58,908 INFO 72119 [egg-security] use xssProtection middleware
+2022-11-13 15:05:58,908 INFO 72119 [egg-security] use xframe middleware
+2022-11-13 15:05:58,908 INFO 72119 [egg-security] use dta middleware
+2022-11-13 15:05:58,908 INFO 72119 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:05:58,913 INFO 72119 [egg:core] dump config after load, 2ms
+2022-11-13 15:05:58,932 INFO 72119 [egg-watcher:application] watcher start success
+2022-11-13 15:05:58,935 INFO 72119 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:05:58 GMT+0800 (中国标准时间)
+2022-11-13 15:05:58,938 INFO 72119 [egg:core] dump config after ready, 2ms
+2022-11-13 15:12:42,046 INFO 72186 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:12:42,046 INFO 72186 [egg-multipart] stream mode enable
+2022-11-13 15:12:42,063 INFO 72186 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:12:42,130 INFO 72186 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:12:42,131 INFO 72186 [egg-security] use methodnoallow middleware
+2022-11-13 15:12:42,132 INFO 72186 [egg-security] use noopen middleware
+2022-11-13 15:12:42,132 INFO 72186 [egg-security] use nosniff middleware
+2022-11-13 15:12:42,132 INFO 72186 [egg-security] use xssProtection middleware
+2022-11-13 15:12:42,132 INFO 72186 [egg-security] use xframe middleware
+2022-11-13 15:12:42,132 INFO 72186 [egg-security] use dta middleware
+2022-11-13 15:12:42,132 INFO 72186 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:12:42,138 INFO 72186 [egg:core] dump config after load, 2ms
+2022-11-13 15:12:42,154 INFO 72186 [egg-watcher:application] watcher start success
+2022-11-13 15:12:42,157 INFO 72186 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:12:42 GMT+0800 (中国标准时间)
+2022-11-13 15:12:42,160 INFO 72186 [egg:core] dump config after ready, 2ms
+2022-11-13 15:43:27,350 INFO 72646 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:43:27,350 INFO 72646 [egg-multipart] file mode enable
+2022-11-13 15:43:27,351 INFO 72646 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:43:27,368 INFO 72646 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:43:27,436 INFO 72646 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:43:27,437 INFO 72646 [egg-security] use methodnoallow middleware
+2022-11-13 15:43:27,437 INFO 72646 [egg-security] use noopen middleware
+2022-11-13 15:43:27,438 INFO 72646 [egg-security] use nosniff middleware
+2022-11-13 15:43:27,438 INFO 72646 [egg-security] use xssProtection middleware
+2022-11-13 15:43:27,438 INFO 72646 [egg-security] use xframe middleware
+2022-11-13 15:43:27,438 INFO 72646 [egg-security] use dta middleware
+2022-11-13 15:43:27,438 INFO 72646 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:43:27,447 INFO 72646 [egg:core] dump config after load, 6ms
+2022-11-13 15:43:27,466 INFO 72646 [egg-watcher:application] watcher start success
+2022-11-13 15:43:27,472 INFO 72646 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:43:27 GMT+0800 (中国标准时间)
+2022-11-13 15:43:27,475 INFO 72646 [egg:core] dump config after ready, 3ms
+2022-11-13 15:44:38,059 INFO 72676 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:44:38,059 INFO 72676 [egg-multipart] file mode enable
+2022-11-13 15:44:38,059 INFO 72676 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:44:38,075 INFO 72676 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:44:38,140 INFO 72676 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:44:38,141 INFO 72676 [egg-security] use methodnoallow middleware
+2022-11-13 15:44:38,141 INFO 72676 [egg-security] use noopen middleware
+2022-11-13 15:44:38,141 INFO 72676 [egg-security] use nosniff middleware
+2022-11-13 15:44:38,142 INFO 72676 [egg-security] use xssProtection middleware
+2022-11-13 15:44:38,142 INFO 72676 [egg-security] use xframe middleware
+2022-11-13 15:44:38,142 INFO 72676 [egg-security] use dta middleware
+2022-11-13 15:44:38,142 INFO 72676 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:44:38,149 INFO 72676 [egg:core] dump config after load, 2ms
+2022-11-13 15:44:38,164 INFO 72676 [egg-watcher:application] watcher start success
+2022-11-13 15:44:38,166 INFO 72676 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:44:38 GMT+0800 (中国标准时间)
+2022-11-13 15:44:38,169 INFO 72676 [egg:core] dump config after ready, 2ms
+2022-11-13 15:46:07,554 INFO 72762 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:46:07,554 INFO 72762 [egg-multipart] file mode enable
+2022-11-13 15:46:07,554 INFO 72762 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:46:07,571 INFO 72762 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:46:07,639 INFO 72762 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:46:07,640 INFO 72762 [egg-security] use methodnoallow middleware
+2022-11-13 15:46:07,640 INFO 72762 [egg-security] use noopen middleware
+2022-11-13 15:46:07,640 INFO 72762 [egg-security] use nosniff middleware
+2022-11-13 15:46:07,640 INFO 72762 [egg-security] use xssProtection middleware
+2022-11-13 15:46:07,640 INFO 72762 [egg-security] use xframe middleware
+2022-11-13 15:46:07,640 INFO 72762 [egg-security] use dta middleware
+2022-11-13 15:46:07,640 INFO 72762 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:46:07,646 INFO 72762 [egg:core] dump config after load, 2ms
+2022-11-13 15:46:07,660 INFO 72762 [egg-watcher:application] watcher start success
+2022-11-13 15:46:07,663 INFO 72762 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:46:07 GMT+0800 (中国标准时间)
+2022-11-13 15:46:07,666 INFO 72762 [egg:core] dump config after ready, 2ms
+2022-11-13 15:46:28,148 INFO 72785 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:46:28,148 INFO 72785 [egg-multipart] file mode enable
+2022-11-13 15:46:28,148 INFO 72785 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:46:28,163 INFO 72785 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:46:28,226 INFO 72785 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:46:28,227 INFO 72785 [egg-security] use methodnoallow middleware
+2022-11-13 15:46:28,227 INFO 72785 [egg-security] use noopen middleware
+2022-11-13 15:46:28,227 INFO 72785 [egg-security] use nosniff middleware
+2022-11-13 15:46:28,227 INFO 72785 [egg-security] use xssProtection middleware
+2022-11-13 15:46:28,227 INFO 72785 [egg-security] use xframe middleware
+2022-11-13 15:46:28,228 INFO 72785 [egg-security] use dta middleware
+2022-11-13 15:46:28,228 INFO 72785 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:46:28,233 INFO 72785 [egg:core] dump config after load, 3ms
+2022-11-13 15:46:28,251 INFO 72785 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:46:28 GMT+0800 (中国标准时间)
+2022-11-13 15:46:28,252 INFO 72785 [egg-watcher:application] watcher start success
+2022-11-13 15:46:28,255 INFO 72785 [egg:core] dump config after ready, 2ms
+2022-11-13 15:47:43,928 INFO 72815 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:47:43,928 INFO 72815 [egg-multipart] file mode enable
+2022-11-13 15:47:43,928 INFO 72815 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:47:43,944 INFO 72815 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:47:44,006 INFO 72815 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:47:44,007 INFO 72815 [egg-security] use methodnoallow middleware
+2022-11-13 15:47:44,007 INFO 72815 [egg-security] use noopen middleware
+2022-11-13 15:47:44,008 INFO 72815 [egg-security] use nosniff middleware
+2022-11-13 15:47:44,008 INFO 72815 [egg-security] use xssProtection middleware
+2022-11-13 15:47:44,008 INFO 72815 [egg-security] use xframe middleware
+2022-11-13 15:47:44,008 INFO 72815 [egg-security] use dta middleware
+2022-11-13 15:47:44,008 INFO 72815 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:47:44,015 INFO 72815 [egg:core] dump config after load, 3ms
+2022-11-13 15:47:44,033 INFO 72815 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:47:44 GMT+0800 (中国标准时间)
+2022-11-13 15:47:44,033 INFO 72815 [egg-watcher:application] watcher start success
+2022-11-13 15:47:44,037 INFO 72815 [egg:core] dump config after ready, 3ms
+2022-11-13 15:48:08,683 INFO 72860 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:48:08,683 INFO 72860 [egg-multipart] file mode enable
+2022-11-13 15:48:08,683 INFO 72860 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:48:08,701 INFO 72860 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:48:08,762 INFO 72860 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:48:08,763 INFO 72860 [egg-security] use methodnoallow middleware
+2022-11-13 15:48:08,763 INFO 72860 [egg-security] use noopen middleware
+2022-11-13 15:48:08,763 INFO 72860 [egg-security] use nosniff middleware
+2022-11-13 15:48:08,764 INFO 72860 [egg-security] use xssProtection middleware
+2022-11-13 15:48:08,764 INFO 72860 [egg-security] use xframe middleware
+2022-11-13 15:48:08,764 INFO 72860 [egg-security] use dta middleware
+2022-11-13 15:48:08,764 INFO 72860 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:48:08,771 INFO 72860 [egg:core] dump config after load, 3ms
+2022-11-13 15:48:08,788 INFO 72860 [egg-watcher:application] watcher start success
+2022-11-13 15:48:08,791 INFO 72860 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:48:08 GMT+0800 (中国标准时间)
+2022-11-13 15:48:08,794 INFO 72860 [egg:core] dump config after ready, 3ms
+2022-11-13 15:48:55,340 INFO 72878 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:48:55,340 INFO 72878 [egg-multipart] file mode enable
+2022-11-13 15:48:55,340 INFO 72878 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:48:55,356 INFO 72878 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:48:55,424 INFO 72878 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:48:55,425 INFO 72878 [egg-security] use methodnoallow middleware
+2022-11-13 15:48:55,425 INFO 72878 [egg-security] use noopen middleware
+2022-11-13 15:48:55,426 INFO 72878 [egg-security] use nosniff middleware
+2022-11-13 15:48:55,426 INFO 72878 [egg-security] use xssProtection middleware
+2022-11-13 15:48:55,426 INFO 72878 [egg-security] use xframe middleware
+2022-11-13 15:48:55,426 INFO 72878 [egg-security] use dta middleware
+2022-11-13 15:48:55,426 INFO 72878 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:48:55,435 INFO 72878 [egg:core] dump config after load, 4ms
+2022-11-13 15:48:55,450 INFO 72878 [egg-watcher:application] watcher start success
+2022-11-13 15:48:55,453 INFO 72878 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:48:55 GMT+0800 (中国标准时间)
+2022-11-13 15:48:55,456 INFO 72878 [egg:core] dump config after ready, 2ms
+2022-11-13 15:48:59,985 INFO 72895 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:48:59,985 INFO 72895 [egg-multipart] file mode enable
+2022-11-13 15:48:59,985 INFO 72895 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:49:00,000 INFO 72895 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:49:00,041 INFO 72895 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:49:00,042 INFO 72895 [egg-security] use methodnoallow middleware
+2022-11-13 15:49:00,042 INFO 72895 [egg-security] use noopen middleware
+2022-11-13 15:49:00,042 INFO 72895 [egg-security] use nosniff middleware
+2022-11-13 15:49:00,042 INFO 72895 [egg-security] use xssProtection middleware
+2022-11-13 15:49:00,042 INFO 72895 [egg-security] use xframe middleware
+2022-11-13 15:49:00,043 INFO 72895 [egg-security] use dta middleware
+2022-11-13 15:49:00,043 INFO 72895 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:49:00,048 INFO 72895 [egg:core] dump config after load, 2ms
+2022-11-13 15:49:00,069 INFO 72895 [egg-watcher:application] watcher start success
+2022-11-13 15:49:00,069 INFO 72895 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:49:00 GMT+0800 (中国标准时间)
+2022-11-13 15:49:00,073 INFO 72895 [egg:core] dump config after ready, 3ms
+2022-11-13 15:49:53,869 INFO 72930 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:49:53,869 INFO 72930 [egg-multipart] file mode enable
+2022-11-13 15:49:53,869 INFO 72930 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:49:53,883 INFO 72930 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:49:53,931 INFO 72930 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:49:53,932 INFO 72930 [egg-security] use methodnoallow middleware
+2022-11-13 15:49:53,932 INFO 72930 [egg-security] use noopen middleware
+2022-11-13 15:49:53,933 INFO 72930 [egg-security] use nosniff middleware
+2022-11-13 15:49:53,933 INFO 72930 [egg-security] use xssProtection middleware
+2022-11-13 15:49:53,933 INFO 72930 [egg-security] use xframe middleware
+2022-11-13 15:49:53,933 INFO 72930 [egg-security] use dta middleware
+2022-11-13 15:49:53,933 INFO 72930 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:49:53,938 INFO 72930 [egg:core] dump config after load, 2ms
+2022-11-13 15:49:53,955 INFO 72930 [egg-watcher:application] watcher start success
+2022-11-13 15:49:53,956 INFO 72930 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:49:53 GMT+0800 (中国标准时间)
+2022-11-13 15:49:53,960 INFO 72930 [egg:core] dump config after ready, 2ms
+2022-11-13 15:57:27,695 WARN 72930 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 15:59:18,324 INFO 73045 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 15:59:18,324 INFO 73045 [egg-multipart] file mode enable
+2022-11-13 15:59:18,324 INFO 73045 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 15:59:18,338 INFO 73045 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 15:59:18,391 INFO 73045 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 15:59:18,392 INFO 73045 [egg-security] use methodnoallow middleware
+2022-11-13 15:59:18,392 INFO 73045 [egg-security] use noopen middleware
+2022-11-13 15:59:18,392 INFO 73045 [egg-security] use nosniff middleware
+2022-11-13 15:59:18,392 INFO 73045 [egg-security] use xssProtection middleware
+2022-11-13 15:59:18,392 INFO 73045 [egg-security] use xframe middleware
+2022-11-13 15:59:18,392 INFO 73045 [egg-security] use dta middleware
+2022-11-13 15:59:18,392 INFO 73045 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 15:59:18,398 INFO 73045 [egg:core] dump config after load, 2ms
+2022-11-13 15:59:18,417 INFO 73045 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 15:59:18 GMT+0800 (中国标准时间)
+2022-11-13 15:59:18,418 INFO 73045 [egg-watcher:application] watcher start success
+2022-11-13 15:59:18,422 INFO 73045 [egg:core] dump config after ready, 3ms
+2022-11-13 16:00:52,393 INFO 73117 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:00:52,393 INFO 73117 [egg-multipart] file mode enable
+2022-11-13 16:00:52,393 INFO 73117 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:00:52,409 INFO 73117 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:00:52,478 INFO 73117 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:00:52,479 INFO 73117 [egg-security] use methodnoallow middleware
+2022-11-13 16:00:52,479 INFO 73117 [egg-security] use noopen middleware
+2022-11-13 16:00:52,479 INFO 73117 [egg-security] use nosniff middleware
+2022-11-13 16:00:52,480 INFO 73117 [egg-security] use xssProtection middleware
+2022-11-13 16:00:52,480 INFO 73117 [egg-security] use xframe middleware
+2022-11-13 16:00:52,480 INFO 73117 [egg-security] use dta middleware
+2022-11-13 16:00:52,480 INFO 73117 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:00:52,486 INFO 73117 [egg:core] dump config after load, 2ms
+2022-11-13 16:00:52,505 INFO 73117 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:00:52 GMT+0800 (中国标准时间)
+2022-11-13 16:00:52,506 INFO 73117 [egg-watcher:application] watcher start success
+2022-11-13 16:00:52,509 INFO 73117 [egg:core] dump config after ready, 2ms
+2022-11-13 16:01:03,709 INFO 73165 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:01:03,709 INFO 73165 [egg-multipart] file mode enable
+2022-11-13 16:01:03,709 INFO 73165 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:01:03,725 INFO 73165 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:01:03,783 INFO 73165 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:01:03,784 INFO 73165 [egg-security] use methodnoallow middleware
+2022-11-13 16:01:03,784 INFO 73165 [egg-security] use noopen middleware
+2022-11-13 16:01:03,784 INFO 73165 [egg-security] use nosniff middleware
+2022-11-13 16:01:03,784 INFO 73165 [egg-security] use xssProtection middleware
+2022-11-13 16:01:03,784 INFO 73165 [egg-security] use xframe middleware
+2022-11-13 16:01:03,785 INFO 73165 [egg-security] use dta middleware
+2022-11-13 16:01:03,785 INFO 73165 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:01:03,790 INFO 73165 [egg:core] dump config after load, 2ms
+2022-11-13 16:01:03,810 INFO 73165 [egg-watcher:application] watcher start success
+2022-11-13 16:01:03,813 INFO 73165 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:01:03 GMT+0800 (中国标准时间)
+2022-11-13 16:01:03,816 INFO 73165 [egg:core] dump config after ready, 3ms
+2022-11-13 16:02:55,412 INFO 73205 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:02:55,412 INFO 73205 [egg-multipart] file mode enable
+2022-11-13 16:02:55,412 INFO 73205 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:02:55,428 INFO 73205 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:02:55,484 INFO 73205 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:02:55,485 INFO 73205 [egg-security] use methodnoallow middleware
+2022-11-13 16:02:55,486 INFO 73205 [egg-security] use noopen middleware
+2022-11-13 16:02:55,486 INFO 73205 [egg-security] use nosniff middleware
+2022-11-13 16:02:55,486 INFO 73205 [egg-security] use xssProtection middleware
+2022-11-13 16:02:55,486 INFO 73205 [egg-security] use xframe middleware
+2022-11-13 16:02:55,486 INFO 73205 [egg-security] use dta middleware
+2022-11-13 16:02:55,486 INFO 73205 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:02:55,492 INFO 73205 [egg:core] dump config after load, 2ms
+2022-11-13 16:02:55,512 INFO 73205 [egg-watcher:application] watcher start success
+2022-11-13 16:02:55,512 INFO 73205 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:02:55 GMT+0800 (中国标准时间)
+2022-11-13 16:02:55,516 INFO 73205 [egg:core] dump config after ready, 3ms
+2022-11-13 16:05:01,221 INFO 73279 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:05:01,221 INFO 73279 [egg-multipart] file mode enable
+2022-11-13 16:05:01,222 INFO 73279 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:05:01,238 INFO 73279 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:05:01,297 INFO 73279 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:05:01,298 INFO 73279 [egg-security] use methodnoallow middleware
+2022-11-13 16:05:01,298 INFO 73279 [egg-security] use noopen middleware
+2022-11-13 16:05:01,298 INFO 73279 [egg-security] use nosniff middleware
+2022-11-13 16:05:01,298 INFO 73279 [egg-security] use xssProtection middleware
+2022-11-13 16:05:01,299 INFO 73279 [egg-security] use xframe middleware
+2022-11-13 16:05:01,299 INFO 73279 [egg-security] use dta middleware
+2022-11-13 16:05:01,299 INFO 73279 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:05:01,304 INFO 73279 [egg:core] dump config after load, 2ms
+2022-11-13 16:05:01,320 INFO 73279 [egg-watcher:application] watcher start success
+2022-11-13 16:05:01,322 INFO 73279 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:05:01 GMT+0800 (中国标准时间)
+2022-11-13 16:05:01,326 INFO 73279 [egg:core] dump config after ready, 3ms
+2022-11-13 16:07:42,621 INFO 73328 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:07:42,621 INFO 73328 [egg-multipart] file mode enable
+2022-11-13 16:07:42,621 INFO 73328 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:07:42,637 INFO 73328 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:07:42,698 INFO 73328 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:07:42,699 INFO 73328 [egg-security] use methodnoallow middleware
+2022-11-13 16:07:42,699 INFO 73328 [egg-security] use noopen middleware
+2022-11-13 16:07:42,699 INFO 73328 [egg-security] use nosniff middleware
+2022-11-13 16:07:42,700 INFO 73328 [egg-security] use xssProtection middleware
+2022-11-13 16:07:42,700 INFO 73328 [egg-security] use xframe middleware
+2022-11-13 16:07:42,700 INFO 73328 [egg-security] use dta middleware
+2022-11-13 16:07:42,700 INFO 73328 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:07:42,706 INFO 73328 [egg:core] dump config after load, 2ms
+2022-11-13 16:07:42,726 INFO 73328 [egg-watcher:application] watcher start success
+2022-11-13 16:07:42,727 INFO 73328 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:07:42 GMT+0800 (中国标准时间)
+2022-11-13 16:07:42,730 INFO 73328 [egg:core] dump config after ready, 2ms
+2022-11-13 16:14:04,510 INFO 73384 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:14:04,510 INFO 73384 [egg-multipart] file mode enable
+2022-11-13 16:14:04,510 INFO 73384 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:14:04,526 INFO 73384 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:14:04,591 INFO 73384 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:14:04,592 INFO 73384 [egg-security] use methodnoallow middleware
+2022-11-13 16:14:04,592 INFO 73384 [egg-security] use noopen middleware
+2022-11-13 16:14:04,592 INFO 73384 [egg-security] use nosniff middleware
+2022-11-13 16:14:04,592 INFO 73384 [egg-security] use xssProtection middleware
+2022-11-13 16:14:04,593 INFO 73384 [egg-security] use xframe middleware
+2022-11-13 16:14:04,593 INFO 73384 [egg-security] use dta middleware
+2022-11-13 16:14:04,593 INFO 73384 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:14:04,599 INFO 73384 [egg:core] dump config after load, 2ms
+2022-11-13 16:14:04,618 INFO 73384 [egg-watcher:application] watcher start success
+2022-11-13 16:14:04,619 INFO 73384 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:14:04 GMT+0800 (中国标准时间)
+2022-11-13 16:14:04,627 INFO 73384 [egg:core] dump config after ready, 7ms
+2022-11-13 16:14:46,203 INFO 73422 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:14:46,203 INFO 73422 [egg-multipart] file mode enable
+2022-11-13 16:14:46,204 INFO 73422 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:14:46,219 INFO 73422 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:14:46,281 INFO 73422 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:14:46,282 INFO 73422 [egg-security] use methodnoallow middleware
+2022-11-13 16:14:46,282 INFO 73422 [egg-security] use noopen middleware
+2022-11-13 16:14:46,283 INFO 73422 [egg-security] use nosniff middleware
+2022-11-13 16:14:46,283 INFO 73422 [egg-security] use xssProtection middleware
+2022-11-13 16:14:46,283 INFO 73422 [egg-security] use xframe middleware
+2022-11-13 16:14:46,283 INFO 73422 [egg-security] use dta middleware
+2022-11-13 16:14:46,283 INFO 73422 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:14:46,289 INFO 73422 [egg:core] dump config after load, 2ms
+2022-11-13 16:14:46,305 INFO 73422 [egg-watcher:application] watcher start success
+2022-11-13 16:14:46,309 INFO 73422 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:14:46 GMT+0800 (中国标准时间)
+2022-11-13 16:14:46,312 INFO 73422 [egg:core] dump config after ready, 2ms
+2022-11-13 16:15:20,233 INFO 73436 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:15:20,233 INFO 73436 [egg-multipart] file mode enable
+2022-11-13 16:15:20,233 INFO 73436 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:15:20,249 INFO 73436 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:15:20,316 INFO 73436 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:15:20,317 INFO 73436 [egg-security] use methodnoallow middleware
+2022-11-13 16:15:20,318 INFO 73436 [egg-security] use noopen middleware
+2022-11-13 16:15:20,318 INFO 73436 [egg-security] use nosniff middleware
+2022-11-13 16:15:20,318 INFO 73436 [egg-security] use xssProtection middleware
+2022-11-13 16:15:20,318 INFO 73436 [egg-security] use xframe middleware
+2022-11-13 16:15:20,318 INFO 73436 [egg-security] use dta middleware
+2022-11-13 16:15:20,318 INFO 73436 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:15:20,327 INFO 73436 [egg:core] dump config after load, 4ms
+2022-11-13 16:15:20,341 INFO 73436 [egg-watcher:application] watcher start success
+2022-11-13 16:15:20,344 INFO 73436 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:15:20 GMT+0800 (中国标准时间)
+2022-11-13 16:15:20,348 INFO 73436 [egg:core] dump config after ready, 3ms
+2022-11-13 16:17:58,416 INFO 73469 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:17:58,417 INFO 73469 [egg-multipart] file mode enable
+2022-11-13 16:17:58,417 INFO 73469 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:17:58,432 INFO 73469 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:17:58,499 INFO 73469 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:17:58,500 INFO 73469 [egg-security] use methodnoallow middleware
+2022-11-13 16:17:58,501 INFO 73469 [egg-security] use noopen middleware
+2022-11-13 16:17:58,501 INFO 73469 [egg-security] use nosniff middleware
+2022-11-13 16:17:58,501 INFO 73469 [egg-security] use xssProtection middleware
+2022-11-13 16:17:58,501 INFO 73469 [egg-security] use xframe middleware
+2022-11-13 16:17:58,501 INFO 73469 [egg-security] use dta middleware
+2022-11-13 16:17:58,501 INFO 73469 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:17:58,508 INFO 73469 [egg:core] dump config after load, 2ms
+2022-11-13 16:17:58,523 INFO 73469 [egg-watcher:application] watcher start success
+2022-11-13 16:17:58,546 INFO 73469 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:17:58 GMT+0800 (中国标准时间)
+2022-11-13 16:17:58,549 INFO 73469 [egg:core] dump config after ready, 3ms
+2022-11-13 16:19:29,952 INFO 73500 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:19:29,952 INFO 73500 [egg-multipart] file mode enable
+2022-11-13 16:19:29,952 INFO 73500 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:19:29,968 INFO 73500 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:19:30,030 INFO 73500 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:19:30,031 INFO 73500 [egg-security] use methodnoallow middleware
+2022-11-13 16:19:30,031 INFO 73500 [egg-security] use noopen middleware
+2022-11-13 16:19:30,031 INFO 73500 [egg-security] use nosniff middleware
+2022-11-13 16:19:30,031 INFO 73500 [egg-security] use xssProtection middleware
+2022-11-13 16:19:30,031 INFO 73500 [egg-security] use xframe middleware
+2022-11-13 16:19:30,031 INFO 73500 [egg-security] use dta middleware
+2022-11-13 16:19:30,031 INFO 73500 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:19:30,039 INFO 73500 [egg:core] dump config after load, 3ms
+2022-11-13 16:19:30,058 INFO 73500 [egg-watcher:application] watcher start success
+2022-11-13 16:19:30,062 INFO 73500 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:19:30 GMT+0800 (中国标准时间)
+2022-11-13 16:19:30,070 INFO 73500 [egg:core] dump config after ready, 6ms
+2022-11-13 16:21:57,690 INFO 73534 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:21:57,690 INFO 73534 [egg-multipart] file mode enable
+2022-11-13 16:21:57,690 INFO 73534 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:21:57,707 INFO 73534 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:21:57,772 INFO 73534 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:21:57,773 INFO 73534 [egg-security] use methodnoallow middleware
+2022-11-13 16:21:57,773 INFO 73534 [egg-security] use noopen middleware
+2022-11-13 16:21:57,773 INFO 73534 [egg-security] use nosniff middleware
+2022-11-13 16:21:57,773 INFO 73534 [egg-security] use xssProtection middleware
+2022-11-13 16:21:57,773 INFO 73534 [egg-security] use xframe middleware
+2022-11-13 16:21:57,774 INFO 73534 [egg-security] use dta middleware
+2022-11-13 16:21:57,774 INFO 73534 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:21:57,781 INFO 73534 [egg:core] dump config after load, 3ms
+2022-11-13 16:21:57,795 INFO 73534 [egg-watcher:application] watcher start success
+2022-11-13 16:21:57,799 INFO 73534 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:21:57 GMT+0800 (中国标准时间)
+2022-11-13 16:21:57,805 INFO 73534 [egg:core] dump config after ready, 5ms
+2022-11-13 16:22:21,171 INFO 73558 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:22:21,171 INFO 73558 [egg-multipart] file mode enable
+2022-11-13 16:22:21,171 INFO 73558 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:22:21,189 INFO 73558 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:22:21,248 INFO 73558 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:22:21,249 INFO 73558 [egg-security] use methodnoallow middleware
+2022-11-13 16:22:21,249 INFO 73558 [egg-security] use noopen middleware
+2022-11-13 16:22:21,250 INFO 73558 [egg-security] use nosniff middleware
+2022-11-13 16:22:21,250 INFO 73558 [egg-security] use xssProtection middleware
+2022-11-13 16:22:21,250 INFO 73558 [egg-security] use xframe middleware
+2022-11-13 16:22:21,250 INFO 73558 [egg-security] use dta middleware
+2022-11-13 16:22:21,250 INFO 73558 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:22:21,256 INFO 73558 [egg:core] dump config after load, 2ms
+2022-11-13 16:22:21,276 INFO 73558 [egg-watcher:application] watcher start success
+2022-11-13 16:22:21,278 INFO 73558 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:22:21 GMT+0800 (中国标准时间)
+2022-11-13 16:22:21,281 INFO 73558 [egg:core] dump config after ready, 2ms
+2022-11-13 16:22:54,012 INFO 73582 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:22:54,012 INFO 73582 [egg-multipart] file mode enable
+2022-11-13 16:22:54,012 INFO 73582 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:22:54,028 INFO 73582 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:22:54,101 INFO 73582 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:22:54,102 INFO 73582 [egg-security] use methodnoallow middleware
+2022-11-13 16:22:54,103 INFO 73582 [egg-security] use noopen middleware
+2022-11-13 16:22:54,103 INFO 73582 [egg-security] use nosniff middleware
+2022-11-13 16:22:54,103 INFO 73582 [egg-security] use xssProtection middleware
+2022-11-13 16:22:54,104 INFO 73582 [egg-security] use xframe middleware
+2022-11-13 16:22:54,104 INFO 73582 [egg-security] use dta middleware
+2022-11-13 16:22:54,104 INFO 73582 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:22:54,113 INFO 73582 [egg:core] dump config after load, 3ms
+2022-11-13 16:22:54,133 INFO 73582 [egg-watcher:application] watcher start success
+2022-11-13 16:22:54,134 INFO 73582 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:22:54 GMT+0800 (中国标准时间)
+2022-11-13 16:22:54,139 INFO 73582 [egg:core] dump config after ready, 4ms
+2022-11-13 16:26:26,884 INFO 73613 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:26:26,885 INFO 73613 [egg-multipart] file mode enable
+2022-11-13 16:26:26,885 INFO 73613 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:26:26,903 INFO 73613 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:26:26,982 INFO 73613 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:26:26,983 INFO 73613 [egg-security] use methodnoallow middleware
+2022-11-13 16:26:26,983 INFO 73613 [egg-security] use noopen middleware
+2022-11-13 16:26:26,983 INFO 73613 [egg-security] use nosniff middleware
+2022-11-13 16:26:26,984 INFO 73613 [egg-security] use xssProtection middleware
+2022-11-13 16:26:26,984 INFO 73613 [egg-security] use xframe middleware
+2022-11-13 16:26:26,984 INFO 73613 [egg-security] use dta middleware
+2022-11-13 16:26:26,984 INFO 73613 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:26:26,992 INFO 73613 [egg:core] dump config after load, 3ms
+2022-11-13 16:26:27,009 INFO 73613 [egg-watcher:application] watcher start success
+2022-11-13 16:26:27,012 INFO 73613 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:26:27 GMT+0800 (中国标准时间)
+2022-11-13 16:26:27,016 INFO 73613 [egg:core] dump config after ready, 3ms
+2022-11-13 16:27:11,994 INFO 73659 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:27:11,995 INFO 73659 [egg-multipart] file mode enable
+2022-11-13 16:27:11,995 INFO 73659 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:27:12,008 INFO 73659 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:27:12,059 INFO 73659 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:27:12,060 INFO 73659 [egg-security] use methodnoallow middleware
+2022-11-13 16:27:12,060 INFO 73659 [egg-security] use noopen middleware
+2022-11-13 16:27:12,061 INFO 73659 [egg-security] use nosniff middleware
+2022-11-13 16:27:12,061 INFO 73659 [egg-security] use xssProtection middleware
+2022-11-13 16:27:12,061 INFO 73659 [egg-security] use xframe middleware
+2022-11-13 16:27:12,061 INFO 73659 [egg-security] use dta middleware
+2022-11-13 16:27:12,061 INFO 73659 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:27:12,067 INFO 73659 [egg:core] dump config after load, 2ms
+2022-11-13 16:27:12,083 INFO 73659 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:27:12 GMT+0800 (中国标准时间)
+2022-11-13 16:27:12,084 INFO 73659 [egg-watcher:application] watcher start success
+2022-11-13 16:27:12,087 INFO 73659 [egg:core] dump config after ready, 2ms
+2022-11-13 16:31:26,080 INFO 73808 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:31:26,080 INFO 73808 [egg-multipart] file mode enable
+2022-11-13 16:31:26,080 INFO 73808 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:31:26,097 INFO 73808 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:31:26,163 INFO 73808 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:31:26,164 INFO 73808 [egg-security] use methodnoallow middleware
+2022-11-13 16:31:26,165 INFO 73808 [egg-security] use noopen middleware
+2022-11-13 16:31:26,165 INFO 73808 [egg-security] use nosniff middleware
+2022-11-13 16:31:26,165 INFO 73808 [egg-security] use xssProtection middleware
+2022-11-13 16:31:26,165 INFO 73808 [egg-security] use xframe middleware
+2022-11-13 16:31:26,166 INFO 73808 [egg-security] use dta middleware
+2022-11-13 16:31:26,166 INFO 73808 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:31:26,173 INFO 73808 [egg:core] dump config after load, 3ms
+2022-11-13 16:31:26,191 INFO 73808 [egg-watcher:application] watcher start success
+2022-11-13 16:31:26,200 INFO 73808 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:31:26 GMT+0800 (中国标准时间)
+2022-11-13 16:31:26,203 INFO 73808 [egg:core] dump config after ready, 2ms
+2022-11-13 16:31:46,872 INFO 73828 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:31:46,872 INFO 73828 [egg-multipart] file mode enable
+2022-11-13 16:31:46,872 INFO 73828 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:31:46,889 INFO 73828 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:31:46,952 INFO 73828 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:31:46,953 INFO 73828 [egg-security] use methodnoallow middleware
+2022-11-13 16:31:46,954 INFO 73828 [egg-security] use noopen middleware
+2022-11-13 16:31:46,954 INFO 73828 [egg-security] use nosniff middleware
+2022-11-13 16:31:46,954 INFO 73828 [egg-security] use xssProtection middleware
+2022-11-13 16:31:46,954 INFO 73828 [egg-security] use xframe middleware
+2022-11-13 16:31:46,954 INFO 73828 [egg-security] use dta middleware
+2022-11-13 16:31:46,954 INFO 73828 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:31:46,963 INFO 73828 [egg:core] dump config after load, 2ms
+2022-11-13 16:31:46,983 INFO 73828 [egg-watcher:application] watcher start success
+2022-11-13 16:31:46,989 INFO 73828 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:31:46 GMT+0800 (中国标准时间)
+2022-11-13 16:31:46,992 INFO 73828 [egg:core] dump config after ready, 2ms
+2022-11-13 16:32:11,874 INFO 73846 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:32:11,874 INFO 73846 [egg-multipart] file mode enable
+2022-11-13 16:32:11,875 INFO 73846 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:32:11,890 INFO 73846 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:32:11,952 INFO 73846 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:32:11,953 INFO 73846 [egg-security] use methodnoallow middleware
+2022-11-13 16:32:11,954 INFO 73846 [egg-security] use noopen middleware
+2022-11-13 16:32:11,954 INFO 73846 [egg-security] use nosniff middleware
+2022-11-13 16:32:11,954 INFO 73846 [egg-security] use xssProtection middleware
+2022-11-13 16:32:11,954 INFO 73846 [egg-security] use xframe middleware
+2022-11-13 16:32:11,954 INFO 73846 [egg-security] use dta middleware
+2022-11-13 16:32:11,954 INFO 73846 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:32:11,960 INFO 73846 [egg:core] dump config after load, 2ms
+2022-11-13 16:32:11,978 INFO 73846 [egg-watcher:application] watcher start success
+2022-11-13 16:32:11,985 INFO 73846 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:32:11 GMT+0800 (中国标准时间)
+2022-11-13 16:32:11,989 INFO 73846 [egg:core] dump config after ready, 3ms
+2022-11-13 16:48:37,787 INFO 73975 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:48:37,787 INFO 73975 [egg-multipart] file mode enable
+2022-11-13 16:48:37,787 INFO 73975 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:48:37,803 INFO 73975 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:48:37,867 INFO 73975 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:48:37,868 INFO 73975 [egg-security] use methodnoallow middleware
+2022-11-13 16:48:37,868 INFO 73975 [egg-security] use noopen middleware
+2022-11-13 16:48:37,868 INFO 73975 [egg-security] use nosniff middleware
+2022-11-13 16:48:37,868 INFO 73975 [egg-security] use xssProtection middleware
+2022-11-13 16:48:37,868 INFO 73975 [egg-security] use xframe middleware
+2022-11-13 16:48:37,869 INFO 73975 [egg-security] use dta middleware
+2022-11-13 16:48:37,869 INFO 73975 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:48:37,875 INFO 73975 [egg:core] dump config after load, 2ms
+2022-11-13 16:48:37,898 INFO 73975 [egg-watcher:application] watcher start success
+2022-11-13 16:48:37,899 INFO 73975 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:48:37 GMT+0800 (中国标准时间)
+2022-11-13 16:48:37,902 INFO 73975 [egg:core] dump config after ready, 2ms
+2022-11-13 16:49:23,049 INFO 74007 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:49:23,049 INFO 74007 [egg-multipart] file mode enable
+2022-11-13 16:49:23,049 INFO 74007 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:49:23,065 INFO 74007 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:49:23,131 INFO 74007 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:49:23,132 INFO 74007 [egg-security] use methodnoallow middleware
+2022-11-13 16:49:23,132 INFO 74007 [egg-security] use noopen middleware
+2022-11-13 16:49:23,133 INFO 74007 [egg-security] use nosniff middleware
+2022-11-13 16:49:23,133 INFO 74007 [egg-security] use xssProtection middleware
+2022-11-13 16:49:23,133 INFO 74007 [egg-security] use xframe middleware
+2022-11-13 16:49:23,133 INFO 74007 [egg-security] use dta middleware
+2022-11-13 16:49:23,133 INFO 74007 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:49:23,140 INFO 74007 [egg:core] dump config after load, 3ms
+2022-11-13 16:49:23,162 INFO 74007 [egg-watcher:application] watcher start success
+2022-11-13 16:49:23,165 INFO 74007 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:49:23 GMT+0800 (中国标准时间)
+2022-11-13 16:49:23,168 INFO 74007 [egg:core] dump config after ready, 2ms
+2022-11-13 16:49:37,651 INFO 74041 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 16:49:37,651 INFO 74041 [egg-multipart] file mode enable
+2022-11-13 16:49:37,651 INFO 74041 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 16:49:37,668 INFO 74041 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 16:49:37,727 INFO 74041 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 16:49:37,728 INFO 74041 [egg-security] use methodnoallow middleware
+2022-11-13 16:49:37,729 INFO 74041 [egg-security] use noopen middleware
+2022-11-13 16:49:37,729 INFO 74041 [egg-security] use nosniff middleware
+2022-11-13 16:49:37,729 INFO 74041 [egg-security] use xssProtection middleware
+2022-11-13 16:49:37,729 INFO 74041 [egg-security] use xframe middleware
+2022-11-13 16:49:37,729 INFO 74041 [egg-security] use dta middleware
+2022-11-13 16:49:37,729 INFO 74041 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 16:49:37,735 INFO 74041 [egg:core] dump config after load, 2ms
+2022-11-13 16:49:37,755 INFO 74041 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 16:49:37 GMT+0800 (中国标准时间)
+2022-11-13 16:49:37,755 INFO 74041 [egg-watcher:application] watcher start success
+2022-11-13 16:49:37,759 INFO 74041 [egg:core] dump config after ready, 3ms
+2022-11-13 17:36:12,752 INFO 74540 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:36:12,752 INFO 74540 [egg-multipart] file mode enable
+2022-11-13 17:36:12,752 INFO 74540 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:36:12,769 INFO 74540 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:36:12,835 INFO 74540 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:36:12,836 INFO 74540 [egg-security] use methodnoallow middleware
+2022-11-13 17:36:12,836 INFO 74540 [egg-security] use noopen middleware
+2022-11-13 17:36:12,836 INFO 74540 [egg-security] use nosniff middleware
+2022-11-13 17:36:12,836 INFO 74540 [egg-security] use xssProtection middleware
+2022-11-13 17:36:12,837 INFO 74540 [egg-security] use xframe middleware
+2022-11-13 17:36:12,837 INFO 74540 [egg-security] use dta middleware
+2022-11-13 17:36:12,837 INFO 74540 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:36:12,843 INFO 74540 [egg:core] dump config after load, 2ms
+2022-11-13 17:36:12,864 INFO 74540 [egg-watcher:application] watcher start success
+2022-11-13 17:36:12,867 INFO 74540 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:36:12 GMT+0800 (中国标准时间)
+2022-11-13 17:36:12,871 INFO 74540 [egg:core] dump config after ready, 3ms
+2022-11-13 17:37:31,164 INFO 74578 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:37:31,164 INFO 74578 [egg-multipart] file mode enable
+2022-11-13 17:37:31,164 INFO 74578 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:37:31,182 INFO 74578 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:37:31,249 INFO 74578 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:37:31,250 INFO 74578 [egg-security] use methodnoallow middleware
+2022-11-13 17:37:31,250 INFO 74578 [egg-security] use noopen middleware
+2022-11-13 17:37:31,251 INFO 74578 [egg-security] use nosniff middleware
+2022-11-13 17:37:31,251 INFO 74578 [egg-security] use xssProtection middleware
+2022-11-13 17:37:31,253 INFO 74578 [egg-security] use xframe middleware
+2022-11-13 17:37:31,254 INFO 74578 [egg-security] use dta middleware
+2022-11-13 17:37:31,254 INFO 74578 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:37:31,265 INFO 74578 [egg:core] dump config after load, 3ms
+2022-11-13 17:37:31,279 INFO 74578 [egg-watcher:application] watcher start success
+2022-11-13 17:37:31,280 INFO 74578 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:37:31 GMT+0800 (中国标准时间)
+2022-11-13 17:37:31,284 INFO 74578 [egg:core] dump config after ready, 3ms
+2022-11-13 17:37:44,204 INFO 74599 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:37:44,204 INFO 74599 [egg-multipart] file mode enable
+2022-11-13 17:37:44,204 INFO 74599 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:37:44,220 INFO 74599 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:37:44,280 INFO 74599 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:37:44,281 INFO 74599 [egg-security] use methodnoallow middleware
+2022-11-13 17:37:44,281 INFO 74599 [egg-security] use noopen middleware
+2022-11-13 17:37:44,281 INFO 74599 [egg-security] use nosniff middleware
+2022-11-13 17:37:44,281 INFO 74599 [egg-security] use xssProtection middleware
+2022-11-13 17:37:44,281 INFO 74599 [egg-security] use xframe middleware
+2022-11-13 17:37:44,281 INFO 74599 [egg-security] use dta middleware
+2022-11-13 17:37:44,282 INFO 74599 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:37:44,287 INFO 74599 [egg:core] dump config after load, 2ms
+2022-11-13 17:37:44,304 INFO 74599 [egg-watcher:application] watcher start success
+2022-11-13 17:37:44,307 INFO 74599 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:37:44 GMT+0800 (中国标准时间)
+2022-11-13 17:37:44,311 INFO 74599 [egg:core] dump config after ready, 3ms
+2022-11-13 17:38:09,350 INFO 74622 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:38:09,350 INFO 74622 [egg-multipart] file mode enable
+2022-11-13 17:38:09,350 INFO 74622 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:38:09,368 INFO 74622 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:38:09,428 INFO 74622 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:38:09,429 INFO 74622 [egg-security] use methodnoallow middleware
+2022-11-13 17:38:09,429 INFO 74622 [egg-security] use noopen middleware
+2022-11-13 17:38:09,429 INFO 74622 [egg-security] use nosniff middleware
+2022-11-13 17:38:09,429 INFO 74622 [egg-security] use xssProtection middleware
+2022-11-13 17:38:09,429 INFO 74622 [egg-security] use xframe middleware
+2022-11-13 17:38:09,430 INFO 74622 [egg-security] use dta middleware
+2022-11-13 17:38:09,430 INFO 74622 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:38:09,436 INFO 74622 [egg:core] dump config after load, 2ms
+2022-11-13 17:38:09,452 INFO 74622 [egg-watcher:application] watcher start success
+2022-11-13 17:38:09,455 INFO 74622 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:38:09 GMT+0800 (中国标准时间)
+2022-11-13 17:38:09,458 INFO 74622 [egg:core] dump config after ready, 2ms
+2022-11-13 17:39:31,750 INFO 74640 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:39:31,750 INFO 74640 [egg-multipart] file mode enable
+2022-11-13 17:39:31,750 INFO 74640 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:39:31,767 INFO 74640 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:39:31,826 INFO 74640 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:39:31,827 INFO 74640 [egg-security] use methodnoallow middleware
+2022-11-13 17:39:31,828 INFO 74640 [egg-security] use noopen middleware
+2022-11-13 17:39:31,828 INFO 74640 [egg-security] use nosniff middleware
+2022-11-13 17:39:31,828 INFO 74640 [egg-security] use xssProtection middleware
+2022-11-13 17:39:31,829 INFO 74640 [egg-security] use xframe middleware
+2022-11-13 17:39:31,829 INFO 74640 [egg-security] use dta middleware
+2022-11-13 17:39:31,829 INFO 74640 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:39:31,835 INFO 74640 [egg:core] dump config after load, 2ms
+2022-11-13 17:39:31,854 INFO 74640 [egg-watcher:application] watcher start success
+2022-11-13 17:39:31,859 INFO 74640 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:39:31 GMT+0800 (中国标准时间)
+2022-11-13 17:39:31,862 INFO 74640 [egg:core] dump config after ready, 3ms
+2022-11-13 17:40:03,805 INFO 74673 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:40:03,805 INFO 74673 [egg-multipart] file mode enable
+2022-11-13 17:40:03,805 INFO 74673 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:40:03,820 INFO 74673 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:40:03,882 INFO 74673 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:40:03,883 INFO 74673 [egg-security] use methodnoallow middleware
+2022-11-13 17:40:03,883 INFO 74673 [egg-security] use noopen middleware
+2022-11-13 17:40:03,884 INFO 74673 [egg-security] use nosniff middleware
+2022-11-13 17:40:03,884 INFO 74673 [egg-security] use xssProtection middleware
+2022-11-13 17:40:03,884 INFO 74673 [egg-security] use xframe middleware
+2022-11-13 17:40:03,884 INFO 74673 [egg-security] use dta middleware
+2022-11-13 17:40:03,884 INFO 74673 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:40:03,891 INFO 74673 [egg:core] dump config after load, 2ms
+2022-11-13 17:40:03,911 INFO 74673 [egg-watcher:application] watcher start success
+2022-11-13 17:40:03,914 INFO 74673 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:40:03 GMT+0800 (中国标准时间)
+2022-11-13 17:40:03,918 INFO 74673 [egg:core] dump config after ready, 3ms
+2022-11-13 17:40:34,694 INFO 74692 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:40:34,694 INFO 74692 [egg-multipart] file mode enable
+2022-11-13 17:40:34,695 INFO 74692 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:40:34,711 INFO 74692 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:40:34,774 INFO 74692 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:40:34,775 INFO 74692 [egg-security] use methodnoallow middleware
+2022-11-13 17:40:34,776 INFO 74692 [egg-security] use noopen middleware
+2022-11-13 17:40:34,776 INFO 74692 [egg-security] use nosniff middleware
+2022-11-13 17:40:34,776 INFO 74692 [egg-security] use xssProtection middleware
+2022-11-13 17:40:34,776 INFO 74692 [egg-security] use xframe middleware
+2022-11-13 17:40:34,776 INFO 74692 [egg-security] use dta middleware
+2022-11-13 17:40:34,776 INFO 74692 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:40:34,783 INFO 74692 [egg:core] dump config after load, 2ms
+2022-11-13 17:40:34,800 INFO 74692 [egg-watcher:application] watcher start success
+2022-11-13 17:40:34,803 INFO 74692 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:40:34 GMT+0800 (中国标准时间)
+2022-11-13 17:40:34,806 INFO 74692 [egg:core] dump config after ready, 2ms
+2022-11-13 17:42:05,863 INFO 74722 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:42:05,863 INFO 74722 [egg-multipart] file mode enable
+2022-11-13 17:42:05,863 INFO 74722 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:42:05,879 INFO 74722 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:42:05,945 INFO 74722 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:42:05,946 INFO 74722 [egg-security] use methodnoallow middleware
+2022-11-13 17:42:05,947 INFO 74722 [egg-security] use noopen middleware
+2022-11-13 17:42:05,947 INFO 74722 [egg-security] use nosniff middleware
+2022-11-13 17:42:05,947 INFO 74722 [egg-security] use xssProtection middleware
+2022-11-13 17:42:05,947 INFO 74722 [egg-security] use xframe middleware
+2022-11-13 17:42:05,947 INFO 74722 [egg-security] use dta middleware
+2022-11-13 17:42:05,947 INFO 74722 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:42:05,954 INFO 74722 [egg:core] dump config after load, 2ms
+2022-11-13 17:42:05,975 INFO 74722 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:42:05 GMT+0800 (中国标准时间)
+2022-11-13 17:42:05,976 INFO 74722 [egg-watcher:application] watcher start success
+2022-11-13 17:42:05,980 INFO 74722 [egg:core] dump config after ready, 3ms
+2022-11-13 17:42:35,742 INFO 74749 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:42:35,742 INFO 74749 [egg-multipart] file mode enable
+2022-11-13 17:42:35,742 INFO 74749 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:42:35,757 INFO 74749 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:42:35,821 INFO 74749 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:42:35,822 INFO 74749 [egg-security] use methodnoallow middleware
+2022-11-13 17:42:35,822 INFO 74749 [egg-security] use noopen middleware
+2022-11-13 17:42:35,823 INFO 74749 [egg-security] use nosniff middleware
+2022-11-13 17:42:35,823 INFO 74749 [egg-security] use xssProtection middleware
+2022-11-13 17:42:35,824 INFO 74749 [egg-security] use xframe middleware
+2022-11-13 17:42:35,824 INFO 74749 [egg-security] use dta middleware
+2022-11-13 17:42:35,824 INFO 74749 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:42:35,832 INFO 74749 [egg:core] dump config after load, 2ms
+2022-11-13 17:42:35,856 INFO 74749 [egg-watcher:application] watcher start success
+2022-11-13 17:42:35,856 INFO 74749 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:42:35 GMT+0800 (中国标准时间)
+2022-11-13 17:42:35,860 INFO 74749 [egg:core] dump config after ready, 3ms
+2022-11-13 17:42:49,226 INFO 74769 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:42:49,226 INFO 74769 [egg-multipart] file mode enable
+2022-11-13 17:42:49,226 INFO 74769 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:42:49,242 INFO 74769 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:42:49,300 INFO 74769 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:42:49,300 INFO 74769 [egg-security] use methodnoallow middleware
+2022-11-13 17:42:49,301 INFO 74769 [egg-security] use noopen middleware
+2022-11-13 17:42:49,301 INFO 74769 [egg-security] use nosniff middleware
+2022-11-13 17:42:49,301 INFO 74769 [egg-security] use xssProtection middleware
+2022-11-13 17:42:49,301 INFO 74769 [egg-security] use xframe middleware
+2022-11-13 17:42:49,301 INFO 74769 [egg-security] use dta middleware
+2022-11-13 17:42:49,301 INFO 74769 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:42:49,308 INFO 74769 [egg:core] dump config after load, 2ms
+2022-11-13 17:42:49,324 INFO 74769 [egg-watcher:application] watcher start success
+2022-11-13 17:42:49,324 INFO 74769 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:42:49 GMT+0800 (中国标准时间)
+2022-11-13 17:42:49,328 INFO 74769 [egg:core] dump config after ready, 3ms
+2022-11-13 17:51:11,477 INFO 74869 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:51:11,477 INFO 74869 [egg-multipart] file mode enable
+2022-11-13 17:51:11,477 INFO 74869 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:51:11,493 INFO 74869 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:51:11,560 INFO 74869 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:51:11,561 INFO 74869 [egg-security] use methodnoallow middleware
+2022-11-13 17:51:11,561 INFO 74869 [egg-security] use noopen middleware
+2022-11-13 17:51:11,562 INFO 74869 [egg-security] use nosniff middleware
+2022-11-13 17:51:11,562 INFO 74869 [egg-security] use xssProtection middleware
+2022-11-13 17:51:11,562 INFO 74869 [egg-security] use xframe middleware
+2022-11-13 17:51:11,562 INFO 74869 [egg-security] use dta middleware
+2022-11-13 17:51:11,562 INFO 74869 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:51:11,570 INFO 74869 [egg:core] dump config after load, 3ms
+2022-11-13 17:51:11,592 INFO 74869 [egg-watcher:application] watcher start success
+2022-11-13 17:51:11,593 INFO 74869 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:51:11 GMT+0800 (中国标准时间)
+2022-11-13 17:51:11,596 INFO 74869 [egg:core] dump config after ready, 2ms
+2022-11-13 17:51:37,610 INFO 74908 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:51:37,610 INFO 74908 [egg-multipart] file mode enable
+2022-11-13 17:51:37,610 INFO 74908 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:51:37,625 INFO 74908 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:51:37,688 INFO 74908 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:51:37,688 INFO 74908 [egg-security] use methodnoallow middleware
+2022-11-13 17:51:37,689 INFO 74908 [egg-security] use noopen middleware
+2022-11-13 17:51:37,689 INFO 74908 [egg-security] use nosniff middleware
+2022-11-13 17:51:37,689 INFO 74908 [egg-security] use xssProtection middleware
+2022-11-13 17:51:37,689 INFO 74908 [egg-security] use xframe middleware
+2022-11-13 17:51:37,689 INFO 74908 [egg-security] use dta middleware
+2022-11-13 17:51:37,689 INFO 74908 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:51:37,696 INFO 74908 [egg:core] dump config after load, 2ms
+2022-11-13 17:51:37,714 INFO 74908 [egg-watcher:application] watcher start success
+2022-11-13 17:51:37,717 INFO 74908 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:51:37 GMT+0800 (中国标准时间)
+2022-11-13 17:51:37,721 INFO 74908 [egg:core] dump config after ready, 3ms
+2022-11-13 17:51:47,286 INFO 74929 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:51:47,286 INFO 74929 [egg-multipart] file mode enable
+2022-11-13 17:51:47,286 INFO 74929 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:51:47,301 INFO 74929 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:51:47,368 INFO 74929 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:51:47,369 INFO 74929 [egg-security] use methodnoallow middleware
+2022-11-13 17:51:47,369 INFO 74929 [egg-security] use noopen middleware
+2022-11-13 17:51:47,369 INFO 74929 [egg-security] use nosniff middleware
+2022-11-13 17:51:47,369 INFO 74929 [egg-security] use xssProtection middleware
+2022-11-13 17:51:47,370 INFO 74929 [egg-security] use xframe middleware
+2022-11-13 17:51:47,370 INFO 74929 [egg-security] use dta middleware
+2022-11-13 17:51:47,370 INFO 74929 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:51:47,376 INFO 74929 [egg:core] dump config after load, 2ms
+2022-11-13 17:51:47,390 INFO 74929 [egg-watcher:application] watcher start success
+2022-11-13 17:51:47,395 INFO 74929 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:51:47 GMT+0800 (中国标准时间)
+2022-11-13 17:51:47,398 INFO 74929 [egg:core] dump config after ready, 2ms
+2022-11-13 17:53:08,498 INFO 74954 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:53:08,498 INFO 74954 [egg-multipart] file mode enable
+2022-11-13 17:53:08,498 INFO 74954 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:53:08,516 INFO 74954 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:53:08,581 INFO 74954 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:53:08,582 INFO 74954 [egg-security] use methodnoallow middleware
+2022-11-13 17:53:08,583 INFO 74954 [egg-security] use noopen middleware
+2022-11-13 17:53:08,583 INFO 74954 [egg-security] use nosniff middleware
+2022-11-13 17:53:08,583 INFO 74954 [egg-security] use xssProtection middleware
+2022-11-13 17:53:08,583 INFO 74954 [egg-security] use xframe middleware
+2022-11-13 17:53:08,583 INFO 74954 [egg-security] use dta middleware
+2022-11-13 17:53:08,584 INFO 74954 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:53:08,591 INFO 74954 [egg:core] dump config after load, 3ms
+2022-11-13 17:53:08,602 INFO 74954 [egg-watcher:application] watcher start success
+2022-11-13 17:53:08,607 INFO 74954 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:53:08 GMT+0800 (中国标准时间)
+2022-11-13 17:53:08,611 INFO 74954 [egg:core] dump config after ready, 3ms
+2022-11-13 17:53:11,519 INFO 74972 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:53:11,519 INFO 74972 [egg-multipart] file mode enable
+2022-11-13 17:53:11,519 INFO 74972 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:53:11,533 INFO 74972 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:53:11,569 INFO 74972 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:53:11,570 INFO 74972 [egg-security] use methodnoallow middleware
+2022-11-13 17:53:11,570 INFO 74972 [egg-security] use noopen middleware
+2022-11-13 17:53:11,570 INFO 74972 [egg-security] use nosniff middleware
+2022-11-13 17:53:11,570 INFO 74972 [egg-security] use xssProtection middleware
+2022-11-13 17:53:11,570 INFO 74972 [egg-security] use xframe middleware
+2022-11-13 17:53:11,570 INFO 74972 [egg-security] use dta middleware
+2022-11-13 17:53:11,570 INFO 74972 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:53:11,580 INFO 74972 [egg:core] dump config after load, 2ms
+2022-11-13 17:53:11,596 INFO 74972 [egg-watcher:application] watcher start success
+2022-11-13 17:53:11,599 INFO 74972 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:53:11 GMT+0800 (中国标准时间)
+2022-11-13 17:53:11,602 INFO 74972 [egg:core] dump config after ready, 2ms
+2022-11-13 17:53:43,887 INFO 74989 [egg:logger] init all loggers with options: {"dir":"/Users/jan/Desktop/pocketbook/logs/pocketbook","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"pocketbook-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"enablePerformanceTimer":false,"type":"application"}
+2022-11-13 17:53:43,887 INFO 74989 [egg-multipart] file mode enable
+2022-11-13 17:53:43,888 INFO 74989 [egg-multipart] will save temporary files to "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook", cleanup job cron: "0 30 4 * * *"
+2022-11-13 17:53:43,903 INFO 74989 [egg-mysql] connecting root@localhost:3306/pocketbook
+2022-11-13 17:53:43,965 INFO 74989 [egg-static] starting static serve /public/ -> /Users/jan/Desktop/pocketbook/app/public
+2022-11-13 17:53:43,966 INFO 74989 [egg-security] use methodnoallow middleware
+2022-11-13 17:53:43,967 INFO 74989 [egg-security] use noopen middleware
+2022-11-13 17:53:43,967 INFO 74989 [egg-security] use nosniff middleware
+2022-11-13 17:53:43,967 INFO 74989 [egg-security] use xssProtection middleware
+2022-11-13 17:53:43,967 INFO 74989 [egg-security] use xframe middleware
+2022-11-13 17:53:43,967 INFO 74989 [egg-security] use dta middleware
+2022-11-13 17:53:43,967 INFO 74989 [egg-security] compose 6 middlewares into one security middleware
+2022-11-13 17:53:43,974 INFO 74989 [egg:core] dump config after load, 3ms
+2022-11-13 17:53:43,994 INFO 74989 [egg-watcher:application] watcher start success
+2022-11-13 17:53:43,995 INFO 74989 [egg-mysql] instance[0] status OK, rds currentTime: Sun Nov 13 2022 17:53:43 GMT+0800 (中国标准时间)
+2022-11-13 17:53:44,000 INFO 74989 [egg:core] dump config after ready, 4ms

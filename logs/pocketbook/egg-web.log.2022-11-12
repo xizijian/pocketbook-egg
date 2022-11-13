@@ -1,0 +1,114 @@
+2022-11-12 00:05:30,864 INFO 68831 [egg-logrotator] app logger reload: got log-reload message
+2022-11-12 00:22:15,404 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 00:55:26,697 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 00:55:26,698 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 01:12:19,091 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 01:30:16,671 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 01:30:16,672 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 02:21:00,655 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 02:21:00,655 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 02:36:27,360 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 02:36:27,361 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 02:52:06,809 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 02:52:06,809 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 03:09:18,625 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 03:09:18,625 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 03:25:38,197 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 03:25:38,197 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 03:41:50,615 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 03:41:50,615 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 04:15:28,913 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 04:32:51,741 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 04:32:51,741 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 04:32:51,743 INFO 68831 [-/127.0.0.1/-/0ms SCHEDULE /__schedule?path=/Users/jan/Desktop/pocketbook/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/jb/9b1g4b090hng75nd925m6dc40000gn/T/egg-multipart-tmp/pocketbook"
+2022-11-12 04:32:51,907 INFO 68831 [-/127.0.0.1/-/164ms SCHEDULE /__schedule?path=/Users/jan/Desktop/pocketbook/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&disable=false&immediate=false] [egg-multipart:CleanTmpdir] end
+2022-11-12 04:49:32,187 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 05:05:28,840 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 05:05:28,840 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 05:21:04,489 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 05:38:26,108 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 05:54:30,468 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 06:10:32,987 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 06:10:32,988 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 06:27:54,442 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 06:27:54,442 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 07:00:52,653 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 07:00:52,656 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 07:16:08,415 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 07:32:53,920 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 07:32:53,920 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 07:49:56,774 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 07:49:56,775 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 08:06:10,280 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 08:21:53,291 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 08:21:53,291 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 08:40:00,183 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 08:56:32,773 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 08:56:32,774 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 09:11:36,480 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 09:11:36,480 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 09:45:04,840 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 09:45:04,840 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 10:20:48,831 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 10:38:16,163 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 10:53:27,759 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 10:53:27,759 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 11:10:26,492 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 11:10:26,492 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 11:43:03,936 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 12:01:05,498 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 12:16:12,822 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 12:33:04,441 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 12:33:04,441 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 12:49:46,778 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 13:05:49,546 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 13:23:42,239 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 13:40:40,846 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 13:56:14,383 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 14:13:12,977 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 14:28:22,847 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 14:28:22,847 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 14:45:48,541 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 15:02:49,261 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 15:17:55,883 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 15:51:52,876 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 16:08:06,947 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 16:26:01,660 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 16:26:01,660 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 16:41:38,665 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 16:58:12,250 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 17:14:03,875 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 17:14:03,875 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 17:29:22,661 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 17:29:22,661 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 18:22:32,707 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 18:39:14,397 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 18:55:46,893 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 18:55:46,894 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 19:13:29,577 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 19:30:17,126 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 19:47:21,940 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 19:47:21,940 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 20:02:48,478 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 20:02:48,479 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 20:19:31,016 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 20:34:51,775 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 20:50:22,377 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 20:50:22,378 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 21:07:08,887 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 21:07:08,887 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 21:22:13,507 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 21:39:24,037 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 21:57:11,813 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 22:13:57,311 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 22:29:52,905 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 22:45:44,885 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 23:03:46,744 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 23:03:46,745 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 23:19:54,500 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 23:37:26,263 WARN 68831 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2022-11-12 23:37:26,263 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-12 23:52:40,785 WARN 68831 [ClusterClient:Watcher] follower closed, and try to init it again
+2022-11-13 00:09:00,417 INFO 68831 [egg-logrotator] clean all log before 31 days
+2022-11-13 00:09:00,421 INFO 68831 [egg-logrotator] broadcast log-reload
+2022-11-13 00:09:00,421 INFO 68831 [egg-logrotator] rotate files success by DayRotator, files ["/Users/jan/Desktop/pocketbook/logs/pocketbook/common-error.log -> /Users/jan/Desktop/pocketbook/logs/pocketbook/common-error.log.2022-11-12","/Users/jan/Desktop/pocketbook/logs/pocketbook/pocketbook-web.log -> /Users/jan/Desktop/pocketbook/logs/pocketbook/pocketbook-web.log.2022-11-12","/Users/jan/Desktop/pocketbook/logs/pocketbook/egg-web.log -> /Users/jan/Desktop/pocketbook/logs/pocketbook/egg-web.log.2022-11-12","/Users/jan/Desktop/pocketbook/logs/pocketbook/egg-schedule.log -> /Users/jan/Desktop/pocketbook/logs/pocketbook/egg-schedule.log.2022-11-12","/Users/jan/Desktop/pocketbook/logs/pocketbook/egg-agent.log -> /Users/jan/Desktop/pocketbook/logs/pocketbook/egg-agent.log.2022-11-12"]
